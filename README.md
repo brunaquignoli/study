@@ -11,7 +11,7 @@ Repositório de anotações e estudos que eu fiz / estou fazendo!
 
 > [Implementação Orientada a Objetos (IOO)](./IOO)
 
-> [Desenvovimento Web:](./WEbdev)
+> [Desenvovimento Web:](./WEb dev)
 > html;
 > css;
 > javascript
