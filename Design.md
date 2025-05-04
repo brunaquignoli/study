@@ -33,27 +33,27 @@ Cor - DIMENSÕES:
     > lilás, algo refinado, ligado à realeza.   
 
 
-    Sempre procurar primeiro entender o público que você quer atingir, porque principalmente no oriente e no ocidente, existem MUITAS, mas MUITAS diferenças mesmo entre o significado das cores...
+    Sempre procurar primeiro entender o público que você quer atingir, porque principalmente no oriente e no ocidente, existem MUITAS, mas MUITAS diferenças mesmo entre o significado das cores...  
 
 # assuntos completos:
 Cores análogas: Quando utilizamos as cores mais próximas no disco de cor, criamos uma sensação de harmonia e continuidade. Normalmente se utiliza esta combinação para criar elementos que não se destaquem entre si.  
 Cores triade: Este nome é justamente porque utilizamos uma combinação em formato de triângulo no disco de cor. Esta composição causa uma sensação de excesso de informação. Essa composição é utilizada para mostrar variedade de elementos mas fazer com que o observador não consiga se concentrar em algum deles especificamente.  
 Cores complementares: Sempre que juntamos duas cores que estão opostas no disco de cor, criamos uma sensação de destaque para ambas. Cores complementares se fortalecem. Isso quer dizer que quando temos o vermelho e o verde junto, ambas parecem mais fortes. Cores complementares são muito utilizadas para gerar destaque em elementos.  
-    > Vermelho:•   Paixão•   Energia•   Amor•   Agitação•   Calor•   Atenção
-    > Azul:•   Tranquilidade• Confiança•   Comunicação•   Serenidade•   Profundidade•   Paz
-    > Amarelo:•   Alegria•   Felicidade•   Energia positiva•   Otimismo•   Criatividade•   Calor
-    > Verde:•   Natureza•   Renovação•   Frescor•   Equilíbrio•   Esperança•   Saúde
-    > Laranja:•   Entusiasmo•   Vitalidade•   Calor•   Criatividade•   Amigável•   Comunicação
-    > Roxo:•   Realeza• Espiritualidade•   Mistério•   Luxo•   Criatividade•   Imaginação
-    > Rosa:•   Amor•   Ternura•   Suavidade•   Inocência•   Romantismo•   Amizade
-    > Marrom:•   Estabilidade•   Conforto•   Terra•   Maturidade•   Simplicidade•   Segurança
-    > Cinza:•   Neutralidade•   Equilíbrio• Sofisticação•   Seriedade•   Reserva•   Modernidade
-    > Preto:•   Mistério•   Elegância•   Poder•   Autoridade•   Luto• Sofisticação
-    > Branco:•   Pureza•   Inocência•   Paz•   Simplicidade•   Limpeza•   Clareza
+    > Vermelho:•   Paixão•   Energia•   Amor•   Agitação•   Calor•   Atenção  
+    > Azul:•   Tranquilidade• Confiança•   Comunicação•   Serenidade•   Profundidade•   Paz  
+    > Amarelo:•   Alegria•   Felicidade•   Energia positiva•   Otimismo•   Criatividade•   Calor  
+    > Verde:•   Natureza•   Renovação•   Frescor•   Equilíbrio•   Esperança•   Saúde  
+    > Laranja:•   Entusiasmo•   Vitalidade•   Calor•   Criatividade•   Amigável•   Comunicação  
+    > Roxo:•   Realeza• Espiritualidade•   Mistério•   Luxo•   Criatividade•   Imaginação  
+    > Rosa:•   Amor•   Ternura•   Suavidade•   Inocência•   Romantismo•   Amizade  
+    > Marrom:•   Estabilidade•   Conforto•   Terra•   Maturidade•   Simplicidade•   Segurança  
+    > Cinza:•   Neutralidade•   Equilíbrio• Sofisticação•   Seriedade•   Reserva•   Modernidade  
+    > Preto:•   Mistério•   Elegância•   Poder•   Autoridade•   Luto• Sofisticação  
+    > Branco:•   Pureza•   Inocência•   Paz•   Simplicidade•   Limpeza•   Clareza  
 
 
 # Tipos de letra e grafia:
-    > antes de escolher tipografia, é necessário escolher o conceito que queremos passar!!!
+    > antes de escolher tipografia, é necessário escolher o conceito que queremos passar!!!  
     
     Serifadas:Possuem pequenos traços, chamados de serifas, que ficam na parte de cima e de baixo de cada letra. Por conta de sua aparência clássica, são uma boa opção para projetos mais tradicionais. Elas também são comuns em publicações impressas, como revistas e jornais. A serifa faz com que cada letra tenha características mais marcadas, sendo mais consistente na leitura. Além disso, cria uma linha de base que facilita a leitura. Ideal para textos longos.  
     Sem SerifaEste tipo de letra costuma ser mais reta, não contendo os traços da serifa. Este estilo é considerado mais limpo e moderno. Apesar de gerar uma leitura com menos qualidade, quando comparada com a serifada, traz um grande ganho na leitura velocidade de leitura. Além disso, é mais fácil de ser lido nas telas de computadores, smartphones e tablets.  
