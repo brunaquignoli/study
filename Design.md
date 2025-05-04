@@ -1,6 +1,12 @@
 ### Voltar para o [README.md](./README.md)
+    > índice:
+    [COR E DIMENSÕES](#cor---dimensões)
+    [COMPOSIÇÃO A PARTIR DA COR](#composição-a-partir-da-cor)
+    [SIGNIFICADO DAS CORES](#significado-das-cores)
+    [ASSUNTOS MAIS COMPLETOS](#assuntos-completos)
+    [TIPOS DE LETRA E GRAFIA](#tipos-de-letra-e-grafia)
 
-Cor - DIMENSÕES:
+# Cor - DIMENSÕES:
     matiz, saturação e  luminosidade  
     matiz: a tonalidade da cor = vermelho, verde, amarelo, azul  
     saturação: quantidade e intensidade presente dessa cor = quanto mais intensidade, mais escura e vibrante é a cor, quanto menos intensidade, mais perto do cinza a cor ta, ou mais pastel  
@@ -15,7 +21,8 @@ Cor - DIMENSÕES:
     > cores frias: itensidade baixa e criam sensação mais suave/leve = azul, verde, criam sensação de paz e tranquilidade por terem frequências mais curtas  
     > vermelho laranja, amarelo tem vibração de onda e intensidade mais forte, ria sensação mais intensa, sensação de paixão, energia, perigo  
 
-    comnposição a aprtir da cor: combinações =
+### composição a partir da cor: 
+    combinações =  
         - mais comum: cor complementar, que está do lado oposto do disco de cores, dá a sensação de que algo se destacar (como por exemplo, algo vermelho + algo verde, um deixa o outro mais forte (laranja e azul)(amarelo e roxo))
         - outra combinação: cores análoas, cores que estão perto uma da outra, próximas. Criam uma sensação ed algo que está em harmonia, e não necessariamente quer destacar. (laranja, vermelho, quase um amarelo, coisas mais próximas)
             > dá pra juntar os dois, querendo que algo chame atenção em relação a um fundo, usar cores análogas no fundo e cores complementares no objeto chamativo (como fundo de cor análoga ao laranja e o objeto de azul)
@@ -24,7 +31,8 @@ Cor - DIMENSÕES:
         - tríade, pega um triangulo do disco de cor, em algo que quer chamar a atenção, mas nenhuma das cores chama a atenção só por si, mas a própria atmosfera chama a atenção, tudo parece intenso  
         - combinação quadrara: pega quatro pontos diferentes da roda, pra criar a sensação de confusão  
 
-    significado das cores pode variar; o que define isso é a dimensão da cor - a diferença de saturação, luminosidade e principalmente a combinação delas!!!    
+### significado das cores:  
+        pode variar; o que define isso é a dimensão da cor - a diferença de saturação, luminosidade e principalmente a combinação delas!!!    
     > vermelho é ligada a intensidade, usada em algo apaixonante, sexual ou ligado à fome, perigo, aventura, alerta.  
     > laranja tem vibração de onda intensa também, ligada à aventura, algo mais joven, dinâmico, alerta, divertido, humor.  
     > amarelo, pode significar algo muito alegre, também cria aspecto de medo, vibração média que também deixa alerta (mas um alerta mais puxado pro medo) e é usado também em coisas infantis.  
@@ -33,9 +41,9 @@ Cor - DIMENSÕES:
     > lilás, algo refinado, ligado à realeza.   
 
 
-    Sempre procurar primeiro entender o público que você quer atingir, porque principalmente no oriente e no ocidente, existem MUITAS, mas MUITAS diferenças mesmo entre o significado das cores...  
+    Sempre procurar primeiro entender o público que você quer atingir, porque principalmente no oriente e no ocidente, existem MUITAS, mas MUITAS diferenças mesmo entre o significado das cores...
 
-# assuntos completos:
+## assuntos completos:
 Cores análogas: Quando utilizamos as cores mais próximas no disco de cor, criamos uma sensação de harmonia e continuidade. Normalmente se utiliza esta combinação para criar elementos que não se destaquem entre si.  
 Cores triade: Este nome é justamente porque utilizamos uma combinação em formato de triângulo no disco de cor. Esta composição causa uma sensação de excesso de informação. Essa composição é utilizada para mostrar variedade de elementos mas fazer com que o observador não consiga se concentrar em algum deles especificamente.  
 Cores complementares: Sempre que juntamos duas cores que estão opostas no disco de cor, criamos uma sensação de destaque para ambas. Cores complementares se fortalecem. Isso quer dizer que quando temos o vermelho e o verde junto, ambas parecem mais fortes. Cores complementares são muito utilizadas para gerar destaque em elementos.  
