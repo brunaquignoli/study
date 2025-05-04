@@ -1,19 +1,19 @@
 # study
 Repositório de anotações e estudos que eu fiz / estou fazendo! 
 
-> [Redes](./Redes)
+> [Redes](./Redes.md)
  
-> [Engenharia de Software (teoria)](./SoftEng)
+> [Engenharia de Software (teoria)](./SoftEng.md)
  
-> [Banco de dados](./BancoDeDados) 
+> [Banco de dados](./BancoDeDados.md) 
  
-> [Análise Orientada a Objetos (AOO)](./AOO)
+> [Análise Orientada a Objetos (AOO)](./AOO.md)
 
-> [Implementação Orientada a Objetos (IOO)](./IOO)
+> [Implementação Orientada a Objetos (IOO)](./IOO.md)
 
-> [Desenvovimento Web:](./WebDev)
+> [Desenvovimento Web:](./WebDev.md)
 > html;
 > css;
 > javascript
 
-> [Design](./Design)
+> [Design](./Design.md)
