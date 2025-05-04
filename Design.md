@@ -1,10 +1,10 @@
 ### Voltar para o [README.md](./README.md)
     > índice:
-    [COR E DIMENSÕES](#cor---dimensões)
-    [COMPOSIÇÃO A PARTIR DA COR](#composição-a-partir-da-cor)
-    [SIGNIFICADO DAS CORES](#significado-das-cores)
-    [ASSUNTOS MAIS COMPLETOS](#assuntos-completos)
-    [TIPOS DE LETRA E GRAFIA](#tipos-de-letra-e-grafia)
+[COR E DIMENSÕES](#cor---dimensões)
+[COMPOSIÇÃO A PARTIR DA COR](#composição-a-partir-da-cor)
+[SIGNIFICADO DAS CORES](#significado-das-cores)
+[ASSUNTOS MAIS COMPLETOS](#assuntos-completos)
+[TIPOS DE LETRA E GRAFIA](#tipos-de-letra-e-grafia)
 
 # Cor - DIMENSÕES:
     matiz, saturação e  luminosidade  
