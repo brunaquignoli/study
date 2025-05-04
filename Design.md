@@ -1,10 +1,10 @@
 ### Voltar para o [README.md](./README.md)
     > índice:
-[COR E DIMENSÕES](#cor---dimensões)
-[COMPOSIÇÃO A PARTIR DA COR](#composição-a-partir-da-cor)
-[SIGNIFICADO DAS CORES](#significado-das-cores)
-[ASSUNTOS MAIS COMPLETOS](#assuntos-completos)
-[TIPOS DE LETRA E GRAFIA](#tipos-de-letra-e-grafia)
+[COR E DIMENSÕES](#cor---dimensões)  
+[COMPOSIÇÃO A PARTIR DA COR](#composição-a-partir-da-cor)  
+[SIGNIFICADO DAS CORES](#significado-das-cores)  
+[ASSUNTOS MAIS COMPLETOS](#assuntos-completos)  
+[TIPOS DE LETRA E GRAFIA](#tipos-de-letra-e-grafia)  
 
 # Cor - DIMENSÕES:
     matiz, saturação e  luminosidade  
@@ -21,7 +21,7 @@
     > cores frias: itensidade baixa e criam sensação mais suave/leve = azul, verde, criam sensação de paz e tranquilidade por terem frequências mais curtas  
     > vermelho laranja, amarelo tem vibração de onda e intensidade mais forte, ria sensação mais intensa, sensação de paixão, energia, perigo  
 
-### composição a partir da cor: 
+### Composição a partir da cor: 
     combinações =  
         - mais comum: cor complementar, que está do lado oposto do disco de cores, dá a sensação de que algo se destacar (como por exemplo, algo vermelho + algo verde, um deixa o outro mais forte (laranja e azul)(amarelo e roxo))
         - outra combinação: cores análoas, cores que estão perto uma da outra, próximas. Criam uma sensação ed algo que está em harmonia, e não necessariamente quer destacar. (laranja, vermelho, quase um amarelo, coisas mais próximas)
@@ -31,7 +31,7 @@
         - tríade, pega um triangulo do disco de cor, em algo que quer chamar a atenção, mas nenhuma das cores chama a atenção só por si, mas a própria atmosfera chama a atenção, tudo parece intenso  
         - combinação quadrara: pega quatro pontos diferentes da roda, pra criar a sensação de confusão  
 
-### significado das cores:  
+### Significado das cores:  
         pode variar; o que define isso é a dimensão da cor - a diferença de saturação, luminosidade e principalmente a combinação delas!!!    
     > vermelho é ligada a intensidade, usada em algo apaixonante, sexual ou ligado à fome, perigo, aventura, alerta.  
     > laranja tem vibração de onda intensa também, ligada à aventura, algo mais joven, dinâmico, alerta, divertido, humor.  
@@ -43,21 +43,21 @@
 
     Sempre procurar primeiro entender o público que você quer atingir, porque principalmente no oriente e no ocidente, existem MUITAS, mas MUITAS diferenças mesmo entre o significado das cores...
 
-## assuntos completos:
-Cores análogas: Quando utilizamos as cores mais próximas no disco de cor, criamos uma sensação de harmonia e continuidade. Normalmente se utiliza esta combinação para criar elementos que não se destaquem entre si.  
-Cores triade: Este nome é justamente porque utilizamos uma combinação em formato de triângulo no disco de cor. Esta composição causa uma sensação de excesso de informação. Essa composição é utilizada para mostrar variedade de elementos mas fazer com que o observador não consiga se concentrar em algum deles especificamente.  
-Cores complementares: Sempre que juntamos duas cores que estão opostas no disco de cor, criamos uma sensação de destaque para ambas. Cores complementares se fortalecem. Isso quer dizer que quando temos o vermelho e o verde junto, ambas parecem mais fortes. Cores complementares são muito utilizadas para gerar destaque em elementos.  
-    > Vermelho:•   Paixão•   Energia•   Amor•   Agitação•   Calor•   Atenção  
-    > Azul:•   Tranquilidade• Confiança•   Comunicação•   Serenidade•   Profundidade•   Paz  
-    > Amarelo:•   Alegria•   Felicidade•   Energia positiva•   Otimismo•   Criatividade•   Calor  
-    > Verde:•   Natureza•   Renovação•   Frescor•   Equilíbrio•   Esperança•   Saúde  
-    > Laranja:•   Entusiasmo•   Vitalidade•   Calor•   Criatividade•   Amigável•   Comunicação  
-    > Roxo:•   Realeza• Espiritualidade•   Mistério•   Luxo•   Criatividade•   Imaginação  
-    > Rosa:•   Amor•   Ternura•   Suavidade•   Inocência•   Romantismo•   Amizade  
-    > Marrom:•   Estabilidade•   Conforto•   Terra•   Maturidade•   Simplicidade•   Segurança  
-    > Cinza:•   Neutralidade•   Equilíbrio• Sofisticação•   Seriedade•   Reserva•   Modernidade  
-    > Preto:•   Mistério•   Elegância•   Poder•   Autoridade•   Luto• Sofisticação  
-    > Branco:•   Pureza•   Inocência•   Paz•   Simplicidade•   Limpeza•   Clareza  
+## Assuntos completos:
+    Cores análogas: Quando utilizamos as cores mais próximas no disco de cor, criamos uma sensação de harmonia e continuidade. Normalmente se utiliza esta combinação para criar elementos que não se destaquem entre si.  
+    Cores triade: Este nome é justamente porque utilizamos uma combinação em formato de triângulo no disco de cor. Esta composição causa uma sensação de excesso de informação. Essa composição é utilizada para mostrar variedade de elementos mas fazer com que o observador não consiga se concentrar em algum deles especificamente.  
+    Cores complementares: Sempre que juntamos duas cores que estão opostas no disco de cor, criamos uma sensação de destaque para ambas. Cores complementares se fortalecem. Isso quer dizer que quando temos o vermelho e o verde junto, ambas parecem mais fortes. Cores complementares são muito utilizadas para gerar destaque em elementos.  
+        > Vermelho:•   Paixão•   Energia•   Amor•   Agitação•   Calor•   Atenção  
+        > Azul:•   Tranquilidade• Confiança•   Comunicação•   Serenidade•   Profundidade•   Paz  
+        > Amarelo:•   Alegria•   Felicidade•   Energia positiva•   Otimismo•   Criatividade•   Calor  
+        > Verde:•   Natureza•   Renovação•   Frescor•   Equilíbrio•   Esperança•   Saúde  
+        > Laranja:•   Entusiasmo•   Vitalidade•   Calor•   Criatividade•   Amigável•   Comunicação  
+        > Roxo:•   Realeza• Espiritualidade•   Mistério•   Luxo•   Criatividade•   Imaginação  
+        > Rosa:•   Amor•   Ternura•   Suavidade•   Inocência•   Romantismo•   Amizade  
+        > Marrom:•   Estabilidade•   Conforto•   Terra•   Maturidade•   Simplicidade•   Segurança  
+        > Cinza:•   Neutralidade•   Equilíbrio• Sofisticação•   Seriedade•   Reserva•   Modernidade  
+        > Preto:•   Mistério•   Elegância•   Poder•   Autoridade•   Luto• Sofisticação  
+        > Branco:•   Pureza•   Inocência•   Paz•   Simplicidade•   Limpeza•   Clareza  
 
 
 # Tipos de letra e grafia:
