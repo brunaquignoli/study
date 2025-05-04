@@ -1,0 +1,12 @@
+Cor - DIMENSÕES:
+    matiz, saturação e  luminosidade
+    matiz: a tonalidade da cor = vermelho, verde, amarelo, azul
+    saturação: quantidade e intensidade presente dessa cor = quanto mais intensidade, mais escura e vibrante é a cor, quanto menos intensidade, mais perto do cinza a cor ta, ou mais pastel
+    luminosidade: valor tonal da cor, quanta luz esta presente na cor, quanto mais presente, mais perto do branco ela tá
+
+    alguns exemplos dentro de uma paleta de cor (dimensão de cores):
+    # algo infantil: tonalidade de cores com saturação beeem alta e luminosidade alta, com atosfera infantil, bem alegre
+    # suspense: saturação baixa, luminosidade densa, baixa também
+    # terror: cria uma sensação de medo intenso, com saturação maior e luminosidade baixa
+    # comédia romantica: saturação baixa e iluminação média, passa sensação de algo bobo e tranquilo
+    # 
