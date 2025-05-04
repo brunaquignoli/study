@@ -1,8 +1,8 @@
 # study
 Repositório de anotações e estudos que eu fiz / estou fazendo! 
 
-> Redes
- #
+> [Redes](./Redes)
+ 
 > Engenharia de Software (teoria)
  #
 > Banco de dados
