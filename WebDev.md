@@ -2,11 +2,11 @@
 > índice
 > [basico](#basico)  
 > [Complemento do básico](#complemento-do-básico)  
-> [introdução](#introducao)
-> [Extensão da introdução](#extensões)
+> [introdução](#introducao)  
+> [Extensão da introdução](#extensões)  
 > [semântica](#semântica) 
-> [HTML](#html)
-> [CSS](#css)
+> [HTML](#html)  
+> [CSS](#css)  
 
 # basico
 front-end: usa bibliotecas, frameworks, padrões de design, focando no melhor tempo de carregamento, um código de manutenção
@@ -64,10 +64,7 @@ As páginas .asp, .jsp ou .php devem estar em um servidor web.
 
 ### Semântica
 Elementos Semanticos e Elementos Genéricos
-Os semânticos tem propósitos específicos, como <h1>, <h2>, h3 e tal, utilizados para propósitos específicos. Já os elementos genéricos, são os que podem ser utilizados para quase tudo o que quisermos, como o <div>, que cria diversas divisões para cada conteúdo, porém, por não serem semânticos, nós não sabemos para quÊ eles servem. E é sempre bom dividir o conteúdo como div's (como div de conteúdo central e div de side-bar, e tal!)
-
-Any of them! A certificaton and the knowledgement would be really good for me in any way! Im open to do any of the timeline courses too, now i'm not working just stufying, so i have a lot of free time to do it.
-And for the scholarship acces, it would be really nice to not pay so much, put I'm open to it too!
+Os semânticos tem propósitos específicos, como h1, h2, h3 e tal, utilizados para propósitos específicos. Já os elementos genéricos, são os que podem ser utilizados para quase tudo o que quisermos, como o div, que cria diversas divisões para cada conteúdo, porém, por não serem semânticos, nós não sabemos para quÊ eles servem. E é sempre bom dividir o conteúdo como div's (como div de conteúdo central e div de side-bar, e tal!)
 
 # html
 
