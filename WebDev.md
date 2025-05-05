@@ -2,7 +2,11 @@
 > índice
 > [basico](#basico)  
 > [Complemento do básico](#complemento-do-básico)  
+> [introdução](#introducao)
 > [Extensão da introdução](#extensões)
+> [semântica](#semântica) 
+> [HTML](#html)
+> [CSS](#css)
 
 # basico
 front-end: usa bibliotecas, frameworks, padrões de design, focando no melhor tempo de carregamento, um código de manutenção
@@ -25,7 +29,6 @@ Home page - primeiro documento que o usuário vê ao entrar em um website.
 Página Web != website: a página web é apenas uma parte de um website, onde, a união de várias páginas web, dá surgimento a um website. Como um livro e um capítulo de livro, apenas.
 > Uma divisão possível entre páginas de web, é entre as páginas web que são estáticas, e as que são dinâmicas.
 
-    
     
 **Site Estático**: não há interação. No máximo botões, formulários e links. A página pode ter um número fixo de páginas que não são tão complexos quanto o dinâmico. Utilização apenas de HTML e CSS.  
     *Vantagens* de custo inicial e tempo de desenvolvimento baixo comparado ao dinâmico, são mais flexíveis no design e carregam de maneira mais rápida. São pré-construídos, então não têm scripts, bancos de dados complexos também.  
@@ -59,5 +62,14 @@ geral a ser embutida junto com o código HTML, que não tem nada a ver com Java 
 Apenas .html é estática, então é a única que pode ser visualizada diretamente no navegador.  
 As páginas .asp, .jsp ou .php devem estar em um servidor web.  
 
+### Semântica
+Elementos Semanticos e Elementos Genéricos
+Os semânticos tem propósitos específicos, como <h1>, <h2>, h3 e tal, utilizados para propósitos específicos. Já os elementos genéricos, são os que podem ser utilizados para quase tudo o que quisermos, como o <div>, que cria diversas divisões para cada conteúdo, porém, por não serem semânticos, nós não sabemos para quÊ eles servem. E é sempre bom dividir o conteúdo como div's (como div de conteúdo central e div de side-bar, e tal!)
 
+Any of them! A certificaton and the knowledgement would be really good for me in any way! Im open to do any of the timeline courses too, now i'm not working just stufying, so i have a lot of free time to do it.
+And for the scholarship acces, it would be really nice to not pay so much, put I'm open to it too!
+
+# html
+
+# css
 
