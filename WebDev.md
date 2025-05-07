@@ -6,7 +6,7 @@
 > [Extensão da introdução](#extensões)  
 > [semântica](#semântica) 
 > [HTML](#HTML)  
-> [CSS](#css)  
+> [CSS](#CSS)  
 
 # basico
 Front-end: usa bibliotecas, frameworks, padrões de design, focando no melhor tempo de carregamento, um código de manutenção.  
@@ -71,7 +71,7 @@ Série de tags que o nagevador interpreta pra exibir conteúdos na tela.
 Enquanto linguagens de programação tem capacidade de gerar fluxos de processo (como sequencial, de sequencias de instruções; condicional de capacidade de tomar decisões; e repetição, com capacidade de repetir um mesmo processo por um alto número de vezes.), O HTML não tem nenhum desses, pois é apenas uma linguagem de layout web.  
 
 Comentários em HTML são aceitos como:  
- ![alt text](image.png)  
+ ![alt text](imagens/image.png)  
 
  Separação em head: **metadados**, **title** da página, **links** para CSS ou JavaScript. **Base** que pode definir vias de acesso, **script** que define scripts, **style** que delimita estilos.  
  > title é a única etiqueta obrigatória dentre todas as citadas.  
@@ -79,14 +79,14 @@ Comentários em HTML são aceitos como:
 
 
 
-# css
+# CSS
 Todas as etiquetas CSS são compostas por: **seletores** que determina a área a ser modificada, **instruções** que se referem às modificações aplicadas.  
     Tipos de delarações = in-line: estilo é declarado dentro da própria tag HTML;  
                 interno: estilo declarado dentro de uma tag *style* criada dentro de uma head no próprio html;  
                 externo: estilo é decladaro entro de um arquivo *CSS* separado, e puxado em um link para dentro do arquivo html (link rel="stylesheet" href="estilos.css").
 
 Comentários em CSS são aceitos como:  
-    ![alt text](image-1.png)  
+    ![alt text](imagens/image-1.png)  
 
 Fontes Personalizadas vêm a partir de uma propriedade @font-face com a {font-family; e o src;} que está a fonte desejada!!  
 E então é só aplicar: p {font:bold 32px 'Font';} > isso fará com que a fonte **Font em Negrito** seja aplicada a todos os parágrafos da página.
@@ -138,8 +138,55 @@ será aplicado apenas à tag P com o id "meuestilo"
     *: Aplica a todos os elementos que tenham "" no meio
 > p name*="Est"> parágrafo </p
 
-**SELETOR UNIVERSAL**
+**SELETOR UNIVERSAL** aplica a literalmente todos os elementos.
+>**HTML**: style type="text"> * {color: blue} </style
 
+**SELETOR DE IRMÃOS** modifica elementos de acordo com propriedades definidas por nós.
+> **HTML**: style type"text"> h1+p{color: black} </style  
+será aplicado a todos os parágrafos que vem após uma h1
+
+**SELETOR FILHO** aplica um estilo à tag que estão dentro de outras, tendo a contida como filha e a contenedora como pai
+> **HTML**: style> li a {color: red} </style  
+será aplicado a todos os links **a** que estão dentro de uma tag **li**  
+
+#
+
+> Se eu quiser estilizar apenas uma palavra ou
+um grupo de palavras dentro de um texto, lembre-se
+que temos que usar a tag <span></span>
+
+#
+
+### CORES
+**PRÉ-DEFINIDAS**: digitando nome em inglês.
+> p {color: blue}
+
+**Rgb (Vermelho, Verde, Azul)**
+> p {color: 42, 54, 156}
+
+**RGB**
+> p {color: #0000ek}
+
+**RGBA**: especifica a opacidade do objeto, adicionando um número de "0.0" até "1.0".  
+> #p {background-color: rgba(255, 0, 0, 0.3);}   
+vermelho com transparênia de 0.3
+
+**GRADIENTE**: deve ser aplicado a cada elemento, especificando em ordem, tipo de gradiente, direção, cor inicial e final.  
+> div {backgroung: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);}
+
+#### ESTILOS PARA LINKS
+status:
+    link: exibidos apenas na página  
+    visited: quando o link já foi visitado  
+    hover: quando o mouse está sobre ele  
+    active: quando está sendo clicado
+
+### UNIDADES
+ comprimentos absolutos:
+ cm, mm, in(polegadas), px
+
+ comprimentos relativos:
+ em(tamanho da fonte e do elemento), ex(altura x da fonte atual), ch(à largura do 0), rem(ao tamanho da fonte do elemento raiz), vw(em relação à 1% da largura da janela gráfica), vh(em relação à 1% da altura da janela gráfica), vmin e vmax(1% menores/maiores do que as dimensões da janela gráfica), %(relativo ao elemento pai).
 
 
 
