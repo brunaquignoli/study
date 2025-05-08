@@ -1,12 +1,16 @@
 ### Voltar para o [README.md](./README.md)
-> índice  
+## índice  
 > [basico](#basico)  
 > [Complemento do básico](#complemento-do-básico)  
 > [introdução](#introdução)  
 > [Extensão da introdução](#extensões)  
 > [semântica](#semântica)   
 > [HTML](#HTML)  
-> [JavaScript](#javascript)
+
+
+# outros assuntos relevantes: [CSS](./CSS.md) - [JavaScript](./javascript.md)
+
+
 
 # basico
 Front-end: usa bibliotecas, frameworks, padrões de design, focando no melhor tempo de carregamento, um código de manutenção.  
@@ -71,16 +75,12 @@ Série de tags que o nagevador interpreta pra exibir conteúdos na tela.
 Enquanto linguagens de programação tem capacidade de gerar fluxos de processo (como sequencial, de sequencias de instruções; condicional de capacidade de tomar decisões; e repetição, com capacidade de repetir um mesmo processo por um alto número de vezes.), O HTML não tem nenhum desses, pois é apenas uma linguagem de layout web.  
 
 Comentários em HTML são aceitos como:  
- ![alt text](imagens/image.png)  
+ ![exemplo de comentario em html](imagens/image.png)  
 
  Separação em head: **metadados**, **title** da página, **links** para CSS ou JavaScript. **Base** que pode definir vias de acesso, **script** que define scripts, **style** que delimita estilos.  
  > title é a única etiqueta obrigatória dentre todas as citadas.  
 
  
-
-
-
-# JAVASCRIPT
 
 
 
