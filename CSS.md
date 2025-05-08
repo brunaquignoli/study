@@ -152,7 +152,9 @@ E para epecificar se o container pode "transbordar" o conteúdo, utilizamos **FL
  > != JUSTIFY E ALIGN CONTENT: align é pra casos multilinha, cuidando de cada linha.  
  > != ALIGN CONTENT E ITEMS: content é mais geral e items se define a como eles vão se comportar.  
 
+#
  > exemplos nas páginas 10-13: https://courses.skillsbuild.skillsnetwork.site/assets/courseware/v1/bf2ac5095c435df21f0fff874358e754/asset-v1:BeJob+Slv5vS+v1+type@asset+block/Python_Tema4_Parte5_BR_v1.pdf
+#
 
 > atalho: junta align-content e justify-content = place-content  
 >   {place-content: flex-start flex-end;}  
