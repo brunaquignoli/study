@@ -7,6 +7,7 @@
 > [semântica](#semântica) 
 > [HTML](#HTML)  
 > [CSS](#CSS)  
+> [JavaScript](#javascript)
 
 # basico
 Front-end: usa bibliotecas, frameworks, padrões de design, focando no melhor tempo de carregamento, um código de manutenção.  
@@ -188,7 +189,22 @@ status:
  comprimentos relativos:
  em(tamanho da fonte e do elemento), ex(altura x da fonte atual), ch(à largura do 0), rem(ao tamanho da fonte do elemento raiz), vw(em relação à 1% da largura da janela gráfica), vh(em relação à 1% da altura da janela gráfica), vmin e vmax(1% menores/maiores do que as dimensões da janela gráfica), %(relativo ao elemento pai).
 
+# CSS FLEXBOX
+CONTAINER: elemento principal que está dentro de cada item, no flex as propriedades são definidas para o elemento pai.
 
+EIXO PRINCIPAL: orientação principal, deve ser específica (normalmente é horizontal).
+
+EIXO SECUNDÁRIO: os containers flexíveis tem uma orientação perpendicular à principal, então se o eixo principal tá no horizontal, esse aqui vai estar como vertical.
+
+ITEM: o item filho que está dentro do container.
+
+FLEX é definido pela propriedade "display" e pode se comportar de forma INLINE-FLEX (semelhante à inline-block, deixa em linha, ocupando apenas o conteúdo) e flex (deixa em bloco, semelhante à block, ocupando toda a largura do pai).
+
+Para definir a direção do eixo, a gente usa FLEX-DIRECTION (valores ROW que define do eito principal para horizontal, ROW-REVERSE que define para horizontal invertido, COLUMN que define para vertical, COLUMN-REVERSE que define para vertical invertido).
+
+> ![exemplo sobre os flex-direction](imagens/exemplo.flex.png)
+
+# JAVASCRIPT
 
 
 
