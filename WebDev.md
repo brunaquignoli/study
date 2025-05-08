@@ -190,19 +190,47 @@ status:
  em(tamanho da fonte e do elemento), ex(altura x da fonte atual), ch(à largura do 0), rem(ao tamanho da fonte do elemento raiz), vw(em relação à 1% da largura da janela gráfica), vh(em relação à 1% da altura da janela gráfica), vmin e vmax(1% menores/maiores do que as dimensões da janela gráfica), %(relativo ao elemento pai).
 
 # CSS FLEXBOX
-CONTAINER: elemento principal que está dentro de cada item, no flex as propriedades são definidas para o elemento pai.
+**CONTAINER**: elemento principal que está dentro de cada item, no flex as propriedades são definidas para o elemento pai.
 
-EIXO PRINCIPAL: orientação principal, deve ser específica (normalmente é horizontal).
+**EIXO PRINCIPAL**: orientação principal, deve ser específica (normalmente é horizontal).
 
-EIXO SECUNDÁRIO: os containers flexíveis tem uma orientação perpendicular à principal, então se o eixo principal tá no horizontal, esse aqui vai estar como vertical.
+**EIXO SECUNDÁRIO**: os containers flexíveis tem uma orientação perpendicular à principal, então se o eixo principal tá no horizontal, esse aqui vai estar como vertical.
 
-ITEM: o item filho que está dentro do container.
+**ITEM**: o item filho que está dentro do container.
 
-FLEX é definido pela propriedade "display" e pode se comportar de forma INLINE-FLEX (semelhante à inline-block, deixa em linha, ocupando apenas o conteúdo) e flex (deixa em bloco, semelhante à block, ocupando toda a largura do pai).
+### FLEX E WRAP 
+ é definido pela propriedade "display" e pode se comportar de forma **INLINE-FLEX** (semelhante à inline-block, deixa em linha, ocupando apenas o conteúdo) e **FLEX** (deixa em bloco, semelhante à block, ocupando toda a largura do pai).
 
-Para definir a direção do eixo, a gente usa FLEX-DIRECTION (valores ROW que define do eito principal para horizontal, ROW-REVERSE que define para horizontal invertido, COLUMN que define para vertical, COLUMN-REVERSE que define para vertical invertido).
+Para definir a direção do eixo, a gente usa **FLEX-DIRECTION** (valores **ROW** que define do eito principal para horizontal, **ROW-REVERSE** que define para horizontal invertido, **COLUMN** que define para vertical, **COLUMN-REVERSE** que define para vertical invertido).
 
 > ![exemplo sobre os flex-direction](imagens/exemplo.flex.png)
+
+E para epecificar se o container pode "transbordar" o conteúdo, utilizamos **FLEX-WRAP** (valores **NOWRAP** para impedir essas multilinhas e usar uma linha só, **WRAP** pra permitir esse modo, **WRAP-REVERSE** para deixar transbordar, mas na direção inversa).
+
+![exemplo sobre os flex-wrap](imagens/exemplo.wrap.png)
+
+> tem também a flex-flow que resume tudo em uma unidade só (tipo *"row wrap"*)
+
+### ALINHAMENTO
+**JUSTIFY-CONTENT**: alinha os itens no eixo principal, horizontal.
+**ALIGN-CONTENT**: os align são usados em casos de container multilinhas, para alinhar cada uma delas (com o flex-wrap).
+**ALIGN-ITEMS**: alinha os items no eixo vertical, ou secundário. 
+**ALIGN-SELF**: deixa um item específico ter um comportamento diferente do resto, quando usamos **align-items**.
+
+ **START** (deixa no inicio) **END** (agrupa tudo no final) **CENTER** (deixa tudo no centro) **SPACE-BETWEEN** (distribui os itens com bastante espaço entre eles) **SPACE-AROUND** (distribui e deixa o mesmo espaço entre cada item) **SPACE-EVENLY** (distribui deixando o mesmo espaço entre direita e esquerda) **STRETCH** (estica tudo pra ocupar todo o espaço) **BASELINE** (alin com base no conteúdo interno) **AUTO** (herda o valor do align-items ja definido, *padrão = stretch*).
+
+ > != JUSTIFY E ALIGN CONTENT: align é pra casos multilinha, cuidando de cada linha.  
+ > != ALIGN CONTENT E ITEMS: content é mais geral e items se define a como eles vão se comportar.  
+
+ > exemplos nas páginas 10-13: https://courses.skillsbuild.skillsnetwork.site/assets/courseware/v1/bf2ac5095c435df21f0fff874358e754/asset-v1:BeJob+Slv5vS+v1+type@asset+block/Python_Tema4_Parte5_BR_v1.pdf
+
+> atalho: junta align-content e justify-content = place-content  
+>   {place-content: flex-start flex-end;}  
+> = {align-content: flex-start; justify-content: flex-end;} 
+
+**propriedade dos filhos**: aplicam-se apenas aos items filhos.  
+
+
 
 # JAVASCRIPT
 
