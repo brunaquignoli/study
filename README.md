@@ -13,7 +13,7 @@ Repositório de anotações e estudos que eu fiz / estou fazendo!
 
 > [Desenvovimento Web:](./WebDev.md)
 > html;
-> css;
+> [css](./CSS.md)
 > javascript
 
 > [Design](./Design.md)
