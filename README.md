@@ -11,11 +11,14 @@ Repositório de anotações e estudos que eu fiz / estou fazendo!
 
 > [Implementação Orientada a Objetos (IOO)](./IOO.md)
 
-> [Desenvovimento Web:](./WebDev.md)
-> html;
+> [Desenvovimento Web: fundamentos e HTML](./WebDev.md)  
+
 > [css](./CSS.md)
-> javascript
+
+> [javascript](./javascript.md)  
 
 > [Design](./Design.md)
 
 >[Sites Úteis](./sites.md)
+
+## repositório com todos os meus resumos e materiais de estudo! (de toda a minha jornada tech <3)
