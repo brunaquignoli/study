@@ -9,6 +9,7 @@
 [flex e wrap](#flex-e-wrap)  
 [alinhamentos](#alinhamento)  
 
+# outros assuntos relevantes: [HTML](./WebDev.md) - [JavaScript](./javascript.md)
 
 # CSS
 Todas as etiquetas CSS são compostas por: **seletores** que determina a área a ser modificada, **instruções** que se referem às modificações aplicadas.  

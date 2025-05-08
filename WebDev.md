@@ -4,7 +4,7 @@
 > [Complemento do básico](#complemento-do-básico)  
 > [introdução](#introdução)  
 > [Extensão da introdução](#extensões)  
-> [semântica](#semântica) 
+> [semântica](#semântica)   
 > [HTML](#HTML)  
 > [JavaScript](#javascript)
 
