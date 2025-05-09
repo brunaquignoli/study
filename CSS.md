@@ -18,7 +18,7 @@ Todas as etiquetas CSS são compostas por: **seletores** que determina a área a
                 externo: estilo é decladaro entro de um arquivo *CSS* separado, e puxado em um link para dentro do arquivo html (link rel="stylesheet" href="estilos.css").
 
 Comentários em CSS são aceitos como:  
-    ![alt text](imagens/image-1.png)  
+    ![alt text](imagens/comentario2.png)  
 
 Fontes Personalizadas vêm a partir de uma propriedade @font-face com a {font-family; e o src;} que está a fonte desejada!!  
 E então é só aplicar: p {font:bold 32px 'Font';} > isso fará com que a fonte **Font em Negrito** seja aplicada a todos os parágrafos da página.
