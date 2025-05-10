@@ -162,3 +162,10 @@ E para epecificar se o container pode "transbordar" o conteúdo, utilizamos **FL
 > = {align-content: flex-start; justify-content: flex-end;} 
 
 **propriedade dos filhos**: aplicam-se apenas aos items filhos. 
+
+### BOOTSTRAP (FRAMEWORKS)
+frameworks diminuem nosso trabalho ao criar um css. 
+**BOOTSTRAP** ajuda a fazer aplicações que se adaptam a todo tipo de dispositivo: criar páginas adaptáveis, recursos de configuração, kit de ferramentas de código aberto, kit de ferramentas de trabalho com interatividade. Ele foca no mobile-first, oferece padrão visual, permite reutilização de código e tem comunidade ativa.
+
+### RESPONSIVE WEB DESIGN
+RESPONSIVO é um site que é adaptativo, que consegue uma visualização de uma mesma página em diferentes tipos de dispositivos. Ele pertmite o redimensionamento e a portabilidade da página.
