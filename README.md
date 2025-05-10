@@ -21,4 +21,6 @@ Repositório de anotações e estudos que eu fiz / estou fazendo!
 
 >[Sites Úteis](./sites.md)
 
+>[figma](figma.md)
+
 ## Repositório com todos os meus resumos e materiais de estudo! (de toda a minha jornada tech <3)
