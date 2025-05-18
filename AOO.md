@@ -5,10 +5,14 @@ java API's são uma forma mais eficiente de filtrar, mapear, reduzir e aumentar 
 > Dica: OMDb API
 > ao usar uma api, é preciso concatenar as informações, e pra isso existem algumas aplicações tipo o postman
 > precisa fazer uma http request
+> precisa pegar um gson de maven pra organizar os dados (https://mvnrepository.com) > no caso estamos usando o gson:https://mvnrepository.com/artifact/com.google.code.gson/gson e https://google.github.io/gson/UserGuide.html  
+
 
 array é um grupo simples de elementos onde cada elemento tem um index diferentes
 
 > temos também ArrayList, LinkedList, Set, Stack, Queue!!  
+
+Bibliotecas != frameworks:  Bibliotecas são funcionalidades prontas para uso, em JAR, e contém classes e demais recursos, podem ser importadas em projetos e usadas diretamente em código pra funcionalidades específicas. Frameworks são estruturas de arquitetura básica para desenvolvimento de aplicações, e podem incluir bibliotecas e práticas recomendadas pro desenvolvimento. (como se fosse uma fábrica de aplicações + conjunto de regras pra fazer isso)
 
 ![exemplo de input/output java](imagens/javaexample.png)
 
