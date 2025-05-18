@@ -14,6 +14,18 @@ array é um grupo simples de elementos onde cada elemento tem um index diferente
 
 Bibliotecas != frameworks:  Bibliotecas são funcionalidades prontas para uso, em JAR, e contém classes e demais recursos, podem ser importadas em projetos e usadas diretamente em código pra funcionalidades específicas. Frameworks são estruturas de arquitetura básica para desenvolvimento de aplicações, e podem incluir bibliotecas e práticas recomendadas pro desenvolvimento. (como se fosse uma fábrica de aplicações + conjunto de regras pra fazer isso)
 
+> classes wrapper
+
+> dentro de um try catch, podemos usar um "finally" pra printar algo se por exemplo, uma linha funcionar:  
+try {  
+  metodoQuePodeLancarExcecao();  
+  System.out.println("Executou");  
+} catch (Exception e) {  
+  System.out.println("Deu erro!");  
+} finally {  
+  System.out.println("Finalizou!");  
+}  
+
 ![exemplo de input/output java](imagens/javaexample.png)
 
 WEB SERVICES > trabalhar com mapeamentos, conversão de objetos 
@@ -28,3 +40,44 @@ criação: lidam com a criações de objeto, procurando garantir flexibilidade e
 estrutura: lidam com a organização de objetos buscando simplificar a comunicação entre eles (Adapter, Facade, Composite)  
 comportamento: lidam com a comunidação entre objetos, querendo definir comportamentos específicos em situações específicas (Observer, Command e Strategy)  
 
+> class **File** exists(), canRead(), canWrite(), isDirectory(), isFile(), mkdir(), delete(), FileReader e FileWriter. **File file = new File("C:\\meuArquivo.txt");**
+File file = new File("C:\\meuArquivo.txt");
+FileReader reader = new FileReader(file);
+
+int data = reader.read();
+while (data != -1) {
+    System.out.print((char) data);
+    data = reader.read();
+}
+reader.close();
+
+#
+
+File file = new File("C:\\saida.txt");
+FileWriter writer = new FileWriter(file);
+writer.write("Olá, mundo!");
+writer.close();
+
+> Para ler um arquivo com essa classe, basta criar uma instância dela e passar como argumento um objeto do tipo File, contendo o caminho do arquivo. 
+
+public class LeituraDeArquivo {
+    public static void main(String[] args) {
+        try {
+            File arquivo = new File("arquivo.json");
+            Scanner scanner = new Scanner(arquivo);
+
+            while (scanner.hasNextLine()) {
+                String linha = scanner.nextLine();
+                System.out.println(linha);
+            }
+
+            scanner.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("Arquivo não encontrado!");
+        }
+    }
+}
+
+> Criar exceções: if(algo) {throw new ErroAleatorio("erro")};   
+> pedir pra transformar em classe né  
+> 
