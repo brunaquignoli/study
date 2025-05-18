@@ -6,6 +6,8 @@ java API's são uma forma mais eficiente de filtrar, mapear, reduzir e aumentar 
 > ao usar uma api, é preciso concatenar as informações, e pra isso existem algumas aplicações tipo o postman
 > precisa fazer uma http request
 > precisa pegar um gson de maven pra organizar os dados (https://mvnrepository.com) > no caso estamos usando o gson:https://mvnrepository.com/artifact/com.google.code.gson/gson e https://google.github.io/gson/UserGuide.html  
+ {@JsonProperty("nome do querido") String nomeEmJava} define um nome específico em java que será desserializado em json, procurando o nome definido em java ao invés do em json. ***Tipo uma propriedade em java nomeCompleto e em Json queremos ela como nome!!!***
+ {@JsonAlias("nomeCompleto", "nome") String nomeCompleto} permite que o java aceite diferentes nomes oferecidos pelo Json. ***Tipo uma classe java com nomeCompleto e em Json está como nomem, nesse caso ele vai aceitar os dois***
 
 
 array é um grupo simples de elementos onde cada elemento tem um index diferentes
