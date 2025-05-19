@@ -14,16 +14,36 @@ java API's são uma forma mais eficiente de filtrar, mapear, reduzir e aumentar 
 
  ## stream
  sequencia de elementos que podem ser processados em paralelo ou em série, pode ser criada a partir de qualquer coisa, dentro disso temos .filter() .collect() .map() .forEach() .filter()
+stream(): uma espécie de lista que processa cada item, como uma esteira!! Que aceita funções específicas
+> comparator.comparing(algo::comparacao) -> faz uma comparação com base em algo (tipo avaliação de episodios, fica (episodio::avaliação))
+> .reversed() -> inverte a ordem de algo
+> .limit(X) -> limita algo a X
+
+
+>find any: procura qualquer coisa que cite algo dentro do código
+
 
  ## Genérico:
  São métodos e outros etcs que podem trabalharcom tipos desconhecidos de parâmetros, é só usar eles entre <>. 
 
+> peek:
+processa dados mas não finaliza, permitindo que façamos alterações neles depois, mas, que vejamos o que já foi processado nele antes de finalizar, como se a gente fosse tomar um spoiler
 
 array é um grupo simples de elementos onde cada elemento tem um index diferentes
 
 > temos também ArrayList, LinkedList, Set, Stack, Queue!!  
 
+> Collections(criam coleções imutáveis, tais conjuntos, listas e mapas, sem que haja uma modificação acidental):
+Collections.unmodifiableList: lista imutável a partir de uma lista já existente
+Collections.unmodifiableMap: mapa imutável a partir de um mapa já existente
+Collections.unmodifiableSet: conjunto imutável a partir de um conjunto já existente
+
+> Para usar data:
+podemos fazer um java.util.Date;
+
 Bibliotecas != frameworks:  Bibliotecas são funcionalidades prontas para uso, em JAR, e contém classes e demais recursos, podem ser importadas em projetos e usadas diretamente em código pra funcionalidades específicas. Frameworks são estruturas de arquitetura básica para desenvolvimento de aplicações, e podem incluir bibliotecas e práticas recomendadas pro desenvolvimento. (como se fosse uma fábrica de aplicações + conjunto de regras pra fazer isso)
+
+> option: objeto que pode ou não retornar algo NULL
 
 > classes wrapper
 
