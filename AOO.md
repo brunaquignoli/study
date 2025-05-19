@@ -10,7 +10,10 @@ java API's são uma forma mais eficiente de filtrar, mapear, reduzir e aumentar 
  {@JsonAlias("nomeCompleto", "nome") String nomeCompleto} permite que o java aceite diferentes nomes oferecidos pelo Json. ***Tipo uma classe java com nomeCompleto e em Json está como nomem, nesse caso ele vai aceitar os dois***
 
  ## lambda:
- utilizamos o "->" para definir que um atributo é lambda. Operação soma = (a,b) -> a + b; ou default void forEach(algo<? super T> action)
+ utilizamos o "->" para definir que um atributo é lambda. (parametro) -> expressao
+
+ ## stream
+ sequencia de elementos que podem ser processados em paralelo ou em série, pode ser criada a partir de qualquer coisa, dentro disso temos .filter() .collect() .map() .forEach() .filter()
 
  ## Genérico:
  São métodos e outros etcs que podem trabalharcom tipos desconhecidos de parâmetros, é só usar eles entre <>. 
