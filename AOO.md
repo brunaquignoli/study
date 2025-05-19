@@ -9,6 +9,9 @@ java API's são uma forma mais eficiente de filtrar, mapear, reduzir e aumentar 
  {@JsonProperty("nome do querido") String nomeEmJava} define um nome específico em java que será desserializado em json, procurando o nome definido em java ao invés do em json. ***Tipo uma propriedade em java nomeCompleto e em Json queremos ela como nome!!!***
  {@JsonAlias("nomeCompleto", "nome") String nomeCompleto} permite que o java aceite diferentes nomes oferecidos pelo Json. ***Tipo uma classe java com nomeCompleto e em Json está como nomem, nesse caso ele vai aceitar os dois***
 
+ ## lambda:
+ utilizamos o "->" para definir que um atributo é lambda. Operação soma = (a,b) -> a + b; ou default void forEach(algo<? super T> action)
+
  ## Genérico:
  São métodos e outros etcs que podem trabalharcom tipos desconhecidos de parâmetros, é só usar eles entre <>. 
 
