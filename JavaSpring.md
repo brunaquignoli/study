@@ -93,11 +93,12 @@ spring é um framework que abstrai o que é comum pra ajudar a focar
 
 **MAVEN:** gerencia dependências de projeto (pom.xml),tem figurações predefinidas, tem ciclo de vida padrão diferente (mvn compile, mvn test e mvn package), possui repositório central com grande variedade de bibliotecas em java prontas. **Vantagens:** Maven é fácil de aprender e tem ecossistema grande. **Desvantagens:** XML podem ficar muito grandes e dificeis de gerenciar.
 
-**GRANDLE:** ferramente de construção e automação baseada em groovy e kotlin e permite flexibilidade, oferece mais liberdade com relação a organização do projeto, baixa as dependências como repositórios remotos, realiza compilações incrementais. **Vantagens:** permite scripts mais poderosos e é mais flexível. **Desvantagens:** dicífil de aprender, ecossistema não tão grande.
+**GRADLE:** ferramente de construção e automação baseada em groovy e kotlin e permite flexibilidade, oferece mais liberdade com relação a organização do projeto, baixa as dependências como repositórios remotos, realiza compilações incrementais. **Vantagens:** permite scripts mais poderosos e é mais flexível. **Desvantagens:** dicífil de aprender, ecossistema não tão grande.
 
 > semelhanças: oferecem repositórios e bibliotecas para o gerenciamento e a lógica da construção, e suportam IDEs de integração contínua.
 
 > diferenças: um usa XML para gerenciar as dependências e o outro usa um formato de script.
 
-
+> CommandLineRunner permite que executemos ações logo após o inicio da aplicação, meio que de forma automatica. Só pedir uma classe:
+**public void MyCommandLineRunner implements CommandLineRunner{ public void run(String... args) throws Exception{ System.out.println("algo");}}**
 
