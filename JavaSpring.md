@@ -13,49 +13,38 @@ Formatando Telefones: Um exemplo prático de formatação de números de telefon
 
 Recursos Adicionais: A aula sugere o uso de ferramentas online, como o regex101, para testar e validar expressões regulares, além de mencionar a importância da prática para dominar o uso de regex.
 
-import java.util.Scanner;
+> import java.util.Scanner;  
+public class RemovendoEspacos {  
+    public static void main(String[] args) {  
+        Scanner scanner = new Scanner(System.in);  
+        System.out.print("Digite o nome: ");  
+        String nome = scanner.nextLine();          
+        String nomeFormatado = nome.trim();  
+        System.out.println("Nome sem espaços: " + nomeFormatado);  
+        scanner.close();  
+>   }    
+>}  
 
-public class RemovendoEspacos {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Digite o nome: ");
-        String nome = scanner.nextLine();
-        
-        String nomeFormatado = nome.trim();
-        System.out.println("Nome sem espaços: " + nomeFormatado);
-        scanner.close();
-    }
-}
-
-import java.util.Scanner;
- 
-public class SubstituindoPalavras {
- 
-    public static void main(String[] args) {
- 
-        Scanner scanner = new Scanner(System.in);
- 
-        System.out.print("Digite o texto: ");
-        String texto = scanner.nextLine();
- 
-        System.out.print("Digite a palavra a ser substituída: ");
-        String palavraAntiga = scanner.nextLine();
- 
-        if (!texto.contains(palavraAntiga)) {
-            System.out.println("Palavra não encontrada.");
-            scanner.close();
-            return; 
-        }
- 
-        System.out.print("Digite a nova palavra: ");
-        String palavraNova = scanner.nextLine();
- 
-        String textoModificado = texto.replace(palavraAntiga, palavraNova);
-        System.out.println("Texto modificado: " + textoModificado);
- 
-        scanner.close();
-    }
-}
+> import java.util.Scanner;  
+public class SubstituindoPalavras {  
+    public static void main(String[] args) {  
+        Scanner scanner = new Scanner(System.in);  
+        System.out.print("Digite o texto: ");  
+        String texto = scanner.nextLine();  
+        System.out.print("Digite a palavra a ser substituída: ");  
+        String palavraAntiga = scanner.nextLine();    
+        if (!texto.contains(palavraAntiga)) {  
+            System.out.println("Palavra não encontrada.");  
+            scanner.close();  
+            return;   
+        }  
+        System.out.print("Digite a nova palavra: ");  
+        String palavraNova = scanner.nextLine();  
+        String textoModificado = texto.replace(palavraAntiga, palavraNova);  
+        System.out.println("Texto modificado: " + textoModificado);  
+        scanner.close();  
+    }  
+}  
 
 Usar métodos como trim(), toLowerCase(), toUpperCase(), replace(), substring()e contains() para transformar, modificar e analisar textos.
 Formatar strings incorporando valores e expressões diretamente no texto, utilizando especificadores como %s, %d, %f, %n e %.2f.
