@@ -29,3 +29,11 @@ Aprendizado de máquina do tipo supervisionado: é aquele que utiliza exemplos r
 Aprendizado de máquina do tipo não-supervisionado: aqui não há exemplos rotulados. O autômato identifica “por si próprio” padrões e características que determinam o “certo” e o “errado”.
 
 Aprendizado de máquina do tipo semi-supervisionado: o autômato consegue lidar com dados rotulados ou não-rotulados. Geralmente, essa modalidade é empregada quando o custo para rotular dados é muito elevado.
+
+
+# realidades
+A Realidade Aumentada sobrepõe objetos virtuais ao mundo real, como no jogo Pokémon GO ou em para-brisas inteligentes que exibem informações no campo de visão do motorista.
+
+A Realidade Virtual oferece uma imersão completa em um ambiente simulado, enganando os sentidos, principalmente a visão e a audição.
+
+Já a Realidade Mista permite a interação entre objetos virtuais e reais, como um objeto virtual que desaparece ao passar atrás de um objeto real.
