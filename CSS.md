@@ -169,3 +169,13 @@ frameworks diminuem nosso trabalho ao criar um css.
 
 ### RESPONSIVE WEB DESIGN
 RESPONSIVO é um site que é adaptativo, que consegue uma visualização de uma mesma página em diferentes tipos de dispositivos. Ele pertmite o redimensionamento e a portabilidade da página.
+
+Combinadores de elementos:
+"+ - Seleciona elementos que estão logo após o elemento especificado antes do símbolo.
+
+~ - Seleciona elementos que estão depois, mas não necessariamente em seguida, do elemento especificado antes do símbolo.
+
+"> - Seleciona elementos que estão dentro do elemento especificado antes do símbolo.
+
+
+
