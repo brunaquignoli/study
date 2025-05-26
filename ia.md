@@ -31,9 +31,52 @@ Aprendizado de máquina do tipo não-supervisionado: aqui não há exemplos rotu
 Aprendizado de máquina do tipo semi-supervisionado: o autômato consegue lidar com dados rotulados ou não-rotulados. Geralmente, essa modalidade é empregada quando o custo para rotular dados é muito elevado.
 
 
-# realidades
+# Realidades:
 A Realidade Aumentada sobrepõe objetos virtuais ao mundo real, como no jogo Pokémon GO ou em para-brisas inteligentes que exibem informações no campo de visão do motorista.
 
 A Realidade Virtual oferece uma imersão completa em um ambiente simulado, enganando os sentidos, principalmente a visão e a audição.
 
 Já a Realidade Mista permite a interação entre objetos virtuais e reais, como um objeto virtual que desaparece ao passar atrás de um objeto real.
+
+# Cibersegurança:
+
+A segurança de dados e sistemas é um desafio constante devido à sofisticação dos ataques.
+Os principais desafios incluem garantir a confidencialidade, disponibilidade e integridade dos dados. Cuidando principalmente da blindagem de ambientes e a recuperação de ataques.
+Um programa de cibersegurança eficaz deve ter quatro dimensões: controles preventivos, de detecção, corretivos e compensatórios.
+
+
+# Blockchain:
+
+É uma tecnologia de armazenamento que valida a autenticidade de dados sem a necessidade de instituições validadoras tradicionais.
+Funciona armazenando dados de forma descentralizada e criptografada em uma rede de computadores.
+Garante a inviolabilidade dos dados, pois a alteração de um único registro não é validada pelo sistema.
+Tem o potencial de eliminar intermediários em diversos setores, como bancos, varejistas e cartórios.
+Criptomoedas como o Bitcoin são uma aplicação típica de blockchain, conferindo legitimidade às moedas digitais sem a necessidade do sistema financeiro tradicional.
+
+# Uso de tecnologias:
+
+Tecnologia como parte de um todo: A tecnologia é crucial, mas deve ser aplicada sobre uma base sólida de estratégia e cultura organizacional, que suporte os pilares da transformação digital, como Lean, agilidade e experimentação.
+
+Processo de análise: É importante ter um processo contínuo para observar as tecnologias emergentes e cruzar essas possibilidades com o sistema interno de inovação da empresa.
+
+Conexão com a inovação: As tecnologias estudadas devem estar alinhadas com as iniciativas de inovação da empresa, especialmente durante a fase de experimentação.
+
+Experimentação e provas de conceito: As empresas devem incorporar a experimentação e os testes de tecnologias em suas rotinas, idealmente com um grupo dedicado a essa finalidade.
+
+Isolamento estratégico: Isolar o grupo de estudo e aplicação de tecnologias do dia a dia da operação pode aumentar o foco e permitir uma cultura de experimentação mais livre, onde o erro é visto como aprendizado.
+
+Cultura de inovação: É fundamental promover uma cultura onde as falhas são vistas como oportunidades de aprendizado, incentivando a inovação contínua.
+
+Cibersegurança: conjunto de processos, técnicas e práticas para garantir a segurança dos ambientes digitais, no tocante à confidencialidade, integridade e disponibilidade. Envolve controles preventivos, de detecção, corretivos e compensatórios.
+
+Controles preventivos de segurança: envolvem blindar um ambiente contra ataques (hackers, software malicioso) e vazamentos.
+
+Controles de detecção de segurança: envolvem identificar rapidamente um ataque e sua extensão.
+
+Controles corretivos de segurança: envolvem minimizar as perdas oriundas de um ataque.
+
+Controles compensatórios de segurança: envolvem manter os serviços essenciais e acesso aos sistemas de recuperação quando um ataque for bem-sucedido.
+
+Blockchain: tecnologia de armazenamento que objetiva validar a autenticidade de ativos baseados em dados sem a necessidade de instituições validadoras.
+
+Provas de conceito: implementação simplificada com o objetivo de avaliar algo antes de iniciar o uso em situação real.
