@@ -80,3 +80,15 @@ Controles compensatórios de segurança: envolvem manter os serviços essenciais
 Blockchain: tecnologia de armazenamento que objetiva validar a autenticidade de ativos baseados em dados sem a necessidade de instituições validadoras.
 
 Provas de conceito: implementação simplificada com o objetivo de avaliar algo antes de iniciar o uso em situação real.
+
+
+## Customer Success:
+Na primeira aula, exploramos a evolução dos padrões de consumo, desde a era pós-revolução industrial até o marketing 4.0, com foco no cliente. Discutimos as necessidades dos clientes modernos e a definição de Customer Success por Lincoln Murphy, que enfatiza a importância de ajudar os clientes a alcançar os resultados desejados através de interações com a empresa.
+
+Na segunda aula, diferenciamos as áreas de cuidado com o cliente, como Customer Success, Customer Support e Customer Experience, e destacamos os três pilares de uma cultura de sucesso: pessoas, produtos e processos. Também apresentamos os benefícios de uma estratégia Customer Centric, como aumento de lucro, retenção e satisfação do cliente.
+
+Na terceira aula, abordamos os problemas comuns em Customer Success, como a perda de visibilidade e valor percebido, que levam à falta de engajamento e cancelamentos. Discutimos técnicas para resolver esses problemas, como a escuta ativa, SPIN Selling e análise de dados.
+
+Na quarta aula, diferenciamos indicadores e métricas, destacando a importância dos KPIs (Key Performance Indicators) para medir o desempenho em Customer Success.
+
+Na quinta aula, exploramos os modelos de atendimento em Customer Success, como tech-touch, low-touch, mid-touch e high-touch, e analisamos as características essenciais para um profissional de CS, incluindo hard skills e soft skills.
