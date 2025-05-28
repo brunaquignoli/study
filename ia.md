@@ -92,3 +92,13 @@ Na terceira aula, abordamos os problemas comuns em Customer Success, como a perd
 Na quarta aula, diferenciamos indicadores e métricas, destacando a importância dos KPIs (Key Performance Indicators) para medir o desempenho em Customer Success.
 
 Na quinta aula, exploramos os modelos de atendimento em Customer Success, como tech-touch, low-touch, mid-touch e high-touch, e analisamos as características essenciais para um profissional de CS, incluindo hard skills e soft skills.
+
+> IA
+*Stable Diffusion*
+É capaz de gerar imagens fotorrealistas a partir de qualquer entrada de texto, cultiva liberdade autônoma para produzir imagens incríveis, capacita muitas pessoas para criar uma arte impressionante em segundos. O uso é gratuito e vale a pena conferir.
+
+*Midjourney*
+O Midjourney é executado no Discord e possui um servidor com canais para trabalho colaborativo, suporte técnico e de cobrança, anúncios oficiais, feedback e discussões. Ganhou uma grande notoriedade na comunidade por conta dos diferentes tipos de imagens geradas. Seu uso pago e neste link você encontra o valor da assinatura.
+
+*PromptHero*
+É um site incrível que divulga milhões de resultados de diferentes IAs, como Stable Diffusion e Midjourney, além de mostrar qual é a entrada que gerou cada imagem ou resultado. O uso é gratuito.
