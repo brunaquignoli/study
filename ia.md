@@ -102,3 +102,9 @@ O Midjourney é executado no Discord e possui um servidor com canais para trabal
 
 *PromptHero*
 É um site incrível que divulga milhões de resultados de diferentes IAs, como Stable Diffusion e Midjourney, além de mostrar qual é a entrada que gerou cada imagem ou resultado. O uso é gratuito.
+
+> Comandos no GPT:
+ """ (três aspas duplas): O uso de três aspas duplas é comum em várias linguagens de programação e serve para indicar um texto que não deve ser processado ou interpretado. No ChatGPT, isso pode ser usado para separar o texto da instrução. Isso ajuda a deixar a intenção da pergunta ou tópico mais clara para o modelo, facilitando a geração de uma resposta.
+ ```(três crases): As três crases são usadas para indicar que o conteúdo entre elas é tratado como um bloco de código.
+ _____ (sublinhados): Os sublinhados podem ser usados para gerar um resultado no formato de formulário. Isso é interessante, caso você queira automatizar o resultado de um prompt e não deseja que o resultado seja em código, apenas em texto.
+ 
