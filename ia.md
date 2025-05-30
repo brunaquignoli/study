@@ -1,3 +1,5 @@
+### Voltar para o [README.md](./README.md)
+
 Big Data: tecnologia que envolve manipulação de grande volume e variedade de dados, em contexto de alta velocidade, visando identificar informações válidas e relevantes para a tomada de decisões que agreguem valor.
 
 Computação em nuvem (“cloud”): ambiente computacional (hardware e software) baseado em servidores remotos (fora do ambiente do cliente), com conexão via internet.
