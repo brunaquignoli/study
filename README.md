@@ -25,4 +25,13 @@ Repositório de anotações e estudos que eu fiz / estou fazendo!
 
 >[java + spring](./JavaSpring.md)
 
+>[NodeJS](./Nodejs.md)
+
+>[Inteligência Artificial](./ia.md)
+
+>[SQL Injection](./SQLinjection.md)
+
+>[Sites úteis](./sites.md)
+
+>[Linux](./linux.md)
 ## Repositório com todos os meus resumos e materiais de estudo! (de toda a minha jornada tech <3)

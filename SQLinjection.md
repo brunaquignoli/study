@@ -1,3 +1,5 @@
+### Voltar para o [README.md](./README.md)
+
 a coisa é, pra evitar a GENIALIDADE do 1' 1=1 -- (1' = fecha o que quer que seja lá no sql / 1=1 deixa como true, pra avisar que um valor verdadeiro foi inserido / -- faz um comentário do resto da frase/sentença do database)
 
 você vai na classe de conexão e faz ela normal:
