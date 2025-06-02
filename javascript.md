@@ -12,3 +12,16 @@ use swiper from cdn, importar o link como link rel stylesheet e depois cola o sc
 
 ### Variáveis
 let, const, var
+
+
+document.querySelector('x') seleciona o primeiro elemento que corresponde ao seletor fornecido
+
+x.innerHTML usada pra acessar ou modificar o conteúdo HTML de um elemento selecionado.
+
+function x{} função em JavaScript, que é responsável por executar uma ação específica
+
+console.log('x') imprime a mensagem ou o valor no console do navegador
+
+.value pega só o valor inserido, e não toda a tag
+
+uso do caso: senão = alguma variavel = [ condição a testar ] ? [ resposta se verdadeiro ] : [ resposta se não verdadeiro ]
