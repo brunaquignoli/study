@@ -13,7 +13,6 @@ use swiper from cdn, importar o link como link rel stylesheet e depois cola o sc
 ### Variáveis
 let, const, var
 
-
 document.querySelector('x') seleciona o primeiro elemento que corresponde ao seletor fornecido
 
 x.innerHTML usada pra acessar ou modificar o conteúdo HTML de um elemento selecionado.
