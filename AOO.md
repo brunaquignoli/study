@@ -111,9 +111,8 @@ public class LeituraDeArquivo {
 
 > Criar exceções: if(algo) {throw new ErroAleatorio("erro")};   
 > pedir pra transformar em classe né  
-> 
 
-#
+# AOO - Faculdade
 
 > Um dos pilares de **Coad** e **Yourdon** é separar a lógica da interface, tornando o sistema mais coeso, reutilizável e manutenível. Pontos principais da metodologia Coad/Yourdon: Modelagem baseada em objetos do mundo real  
 > foco na **experiencia do usuário**, colocar ele no centro do login  
