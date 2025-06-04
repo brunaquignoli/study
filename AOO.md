@@ -112,3 +112,22 @@ public class LeituraDeArquivo {
 > Criar exceções: if(algo) {throw new ErroAleatorio("erro")};   
 > pedir pra transformar em classe né  
 > 
+
+#
+
+> Um dos pilares de **Coad** e **Yourdon** é separar a lógica da interface, tornando o sistema mais coeso, reutilizável e manutenível. Pontos principais da metodologia Coad/Yourdon: Modelagem baseada em objetos do mundo real
+> foco na **experiencia do usuário**, colocar ele no centro do login
+> **separação de responsabilidades**, separando regras de negócio (lógica de sistema), e códigos de interface (telas), aumenta a manutenibilidade, facilita testes e permite evolução sem gerar problemas.
+> Coesão significa que **uma classe deve cuidar apenas de uma responsabilidade**, como interface, regras de negócio e etc
+> os objetos devem ser criados de modo a facilitar a interação, ou seja, **baseados em conceitos reais**, e a usabilidade é essencial
+#
+> a **paleta** guarda todos os componentes gráficos que podem ir para a tela ao arrastados. Como Jlabel que podem exibir textos, JtextField que é entrada de textos e etc. 
+> O **getText()** nunca retorna exceção se o campo estiver vazio, mas pode trazer string vazia (""), o que pode ser um problema se você usar esse valor sem validar.
+>Tem também a parte de **design** que cuida da interface gráfica e o **código-fonte**. O **editor de propriedades** de um elemento consegue mudá-lo diretamente. Por último, o **inspetor** mostra a ordem de todos os elementos da tela.
+> Border, flow e grid layout: **border** permite redimensionamento conforme a janela cresce ou diminui, **flow** rganiza os componentes em uma linha, adicionando-os um após o outro e **grid** permite que os componentes sejam organizados em uma grade, com linhas e colunas definidas.
+> **CardLayout** permite simular uma troca de telas com alternação de painéis.
+> **addActionListener()** conecta uma função ou bloco de código a ser executado quando o evento de clique acontece. **actionPerformed** faz o mesmo!
+> O polimorfismo permite substituir um botão padrão por outro customizado, desde que ambos implementem a mesma interface ou classe base.
+> Java não permite **herança múltipla** com classes, apenas com interfaces. herança múltipla é quando uma classe herda de mais de uma (embora Java não permita isso diretamente com classes, só interfaces).
+
+> **Model** define as ações a serem executadas, **view** é aonde o usuário coloca as informações necessárias e o **controller** pega todos esses dados, define quais vão ser usados e envia eles pro model!
