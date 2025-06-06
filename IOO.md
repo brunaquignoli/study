@@ -31,3 +31,24 @@ Ele é implementado por diversas classes, sendo a mais comum delas o HashMap.
 
 HashMap
 O HashMap é uma classe que implementa a interface Map usando uma tabela hash para armazenar os pares chave-valor. Ele é conhecido por sua eficiência em termos de tempo de execução. Essa classe tem uma complexidade de tempo O(1) - constante - para inserção, recuperação e remoção de elementos. Isso significa que o desempenho do HashMap não depende do tamanho da coleção de dados!
+
+### SISTEMA COMPLETO + CONEXÃO MYSQL
+
+> Conexão
+getConexão: pega a classe do jdbc, faz a conexão com o DriverManager e retorna
+> Model
+Cria uma classe com todos os objetos e atributos a serem utilizados
+> Controller
+Faz um protected processRequest (geralmente é sobrescrito no doGet() e doPost()) e puxa as exceções. Depois cria a instância de livro e faz os ifs. Dentro dos ifs é só criar as strings necessárias (com o ParseInt quando necessário), depois fazer set em tudo e por último o try catch com o MODEL.funcao() e a mensagem. Aí é só puxar os jsp!!
+Se for algo de lista tem que, dentro do try catch, criar uma List<Classe> nome = MODEL.funcao() e o resto vai normal...
+> DAO
+cria um public void com o método, puxa a classe connection con = classconexao.getConexao(), faz o string sql com a acao e puxa o PreparedStatement comando = con.prepareStatement(sql). Depois é só fazer os set(1, get) e fazer comando.execute e con.close
+# se for de consulta
+e tiver que pegar algum dado, precisa criar uma instancia da classe DAO e deixar como null, aí precisa fazer o ResultSet rs = comando.executeQuery() e deixar a instancia como new DAO, depois puxar os dados como instanciaDAO.set
+# em caso de lista
+só fazer o ResultSet e depois criar uma List<classe> nome = new ArrayList<>(), depois puxa igual instancia new DAO, instanciaDAO.set, e o add
+
+> Depois faz o con.close e o return normalmente
+
+# Os jsp precisam ter o form ACTION = Controle method = GET/POST, os inputs tem que ter como value o nome que o equals puxa no controle e tal
+# o execute é só pra manipulação e o executeQuery é pra ter retorno de dados
