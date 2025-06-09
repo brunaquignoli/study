@@ -23,6 +23,25 @@ Diferenças entre var, let e const: var é uma forma mais antiga de declarar var
 
 **typeOf x**: retorna o tipo de x
 
+**x.length**: conta o tamanho de tal elemento x
+
+**x.pop**: exclui o ultimo elemento de uma lista
+
+**x.toFixed(y)**: limita o tamanho de um número em y
+
+**array.slice([inicio, fim])**: fim e inicio são opcionais, 
+
+**x.splice(w, y, z)**: deleta numeros específicos de x, aonde w é o numero inicial, y quantos elementos vão ser deletados e z qual elemento será inserido no lugar
+
+**x = y.concat(z)**: não altera y nem z, mas concatena os dois em x
+
+**x = lista[y].indexOf(z)**: define que x vai ter o index de y dentro da lista z
+
+**x.includes(y)**: retorna true ou false, dependendo se o valor passado como parâmetro está presente ou não no array.
+
+**for (let x of y)**: Funcionalidade: Percorre todos os elementos de um array, do primeiro ao último.
+
+**forEach()**: É um método de array que executa uma função para cada elemento do array.
 ### escopo
 Limite dentro do qual trabalhamos
 
@@ -31,6 +50,10 @@ Função: Variáveis declaradas dentro de uma função têm escopo de função. 
 Global: Variáveis declaradas fora de qualquer função ou bloco têm escopo global. Isso significa que elas podem ser acessadas de qualquer lugar no código, tanto dentro de funções quanto fora delas.
 
 Number.IsNaN e IsNaN: Number.isNaN() irá retornar true apenas se o valor for efetivamente NaN, enquanto a função isNaN() irá retornar true inclusive para casos em que o valor pode ser avaliado como NaN se tentar ser convertido para número.
+
+A **desestruturação** permite atribuir diretamente os arrays a variáveis como listax e listay, que eram um lista = [listax, listay] em const [listax, listay] = lista simplificando o código e tornando-o mais fácil de entender.
+
+**Callback** É uma função passada como argumento para forEach(). Ela recebe como parâmetro o valor do elemento atual do array.
 
 ### operadores e variáveis
 
@@ -47,3 +70,7 @@ Sintaxe mais concisa: As arrow functions permitem uma escrita mais curta e limpa
 Sem "this" próprio: As arrow functions não têm seu próprio contexto de this. Isso significa que, ao usar uma arrow function, o valor de this é herdado do contexto em que a função foi definida. Isso é útil em situações onde você precisa manter o contexto de this, como em métodos de objetos ou em callbacks.
 Ideal para funções curtas: Se você está escrevendo uma função que realiza uma tarefa simples e não precisa de um bloco de código extenso, a arrow function é uma escolha prática.
 Uso em callbacks: As arrow functions são frequentemente utilizadas em funções de retorno (callbacks) devido à sua sintaxe mais compacta, facilitando a leitura do código.
+
+**i++** (pós-incremento): Primeiro retorna o valor atual de i e, em seguida, incrementa i.
+**++i** (pré-incremento): Primeiro incrementa i e, em seguida, retorna o novo valor de i.
+
