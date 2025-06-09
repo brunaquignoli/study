@@ -84,15 +84,92 @@
 // console.log(`a media das notas é ${media}`);
 // -----
 
-const notas = [10, 6.5, 8, 7.5];
+// const notas = [10, 6.5, 8, 9.5];
 
-let somaDasNotas = 0;
+// let somaDasNotas = 0;
 
-notas.forEach(somaNotas);
+// notas.forEach(somaNotas);
 
-function somaNotas (nota){
-    somaDasNotas += nota
-}
+// function somaNotas (nota){
+//     somaDasNotas += nota;
+// }
 
-const media = somaDasNotas / notas.length;
-console.log(`a media das notas é ${media}`)
+// const media = somaDasNotas / notas.length;
+// console.log(`a media das notas é ${media}`);
+// -----
+
+// const notas = [10, 9.5, 8, 7, 6];
+
+
+// // const notasAtualizadas = notas.map(function (nota) {
+// //     return nota + 1;
+// // })
+// //  podemos simplicar essa função com um arrow function, ja que o map é call back ou seja tem retorno 
+// const notasAtualizadas = notas.map((nota) => nota + 1 >= 10 ? 10 : nota + 1); // pega nota e faz mais um, se for maior do que 10 retorna 10, se nao, retorna nota + 1 mesmo. verficia algo ? true : false
+
+// console.log(notasAtualizadas)
+//  -----
+
+// const nomes = ['Ana Julia', "Caio Vinicius", "BIA Silva"];
+
+// const nomesPadronizados = nomes.map((nome) => nome.toUpperCase());
+// const nomesDiferentes = nomes.map((nome) => nome.toLowerCase());
+
+// console.log(nomesPadronizados);
+// console.log(nomesDiferentes);
+
+// -----
+
+// const alunos = ['Ana', 'Marcos', 'Maria', 'Mauro'];
+// const medias = [7, 4.5, 8, 7.5];
+
+// const aprovados = alunos.filter((_, indice) => { // (dado alterado, no caso o _ tá pulando um parametro pois nao está sendo utilizado, indice iterado)
+//     return medias[indice] > 6;
+// })
+
+// console.log(aprovados);
+// -----
+
+// const salaJS = [7, 8, 8, 7, 10, 6.5, 4, 10, 7];
+// const salaJava = [6, 5, 8, 9, 5, 6];
+// const salaPython = [7, 3.5, 8, 9.5];
+
+// function calculaMedia(listaDeNotas){ 
+//         const somaDasNotas = listaDeNotas.reduce((acumulador, nota) => acumulador + nota, 0);
+//     // const somaDasNotas = listaDeNotas.reduce((acumulador, nota) => { 
+//     //     return acumulador + nota;
+//     // }, 0); // passa a função interna e o valor inicial que vai ser acumulado
+
+//     const media = somaDasNotas / listaDeNotas.length;
+//     return media
+// }
+
+// console.log(calculaMedia(salaJS));
+// console.log(calculaMedia(salaJava));
+// console.log(calculaMedia(salaPython));
+// -----
+
+// const notas = [7, 7, 8, 9];
+// const novaListaDeNotas = [...notas, 10];
+
+// // spread operator: espalha valores
+
+
+// // let nota = 9.75;
+// // let novaNota= nota;
+
+// // nota = 10;
+
+// console.log(notas);
+// console.log(novaListaDeNotas);
+// -----
+
+const nomes = ['João', 'João', 'Maria', 'Pedro', 'Ana', 'Luana', 'João', 'Mariana', 'Pedro', 'Nayara', 'Lissa'];
+
+// const nomesAtualizados = new Set(nomes); // set é um conjunto que guarda valores únicos, é tipo um array mas não é, então os métodos de array não funcionam
+
+const listaNomesAtualizados = [... new Set(nomes)];
+
+console.log(listaNomesAtualizados);
+
+

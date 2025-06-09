@@ -8,7 +8,7 @@ Suporte a bibliotecas e frameworks variados, uso do NPM para gerenciamento de pa
 Temos também o **deno**, que foi criado para abordar algumas limitações do Node.js, com foco em segurança e desenvolvimento moderno. E o **bun** que fornece ferramentas e recursos para otimizar e agilizar o desenvolvimento de aplicativos JavaScript e foi projetado para ser compatível com ecossistemas JavaScript existentes.
 
 Ao usar const, criamos variáveis que não podem ser alteradas após a atribuição. Por exemplo, se tentarmos mudar o valor de uma variável definida como const, receberemos um erro.
-Diferenças entre var, let e const: var é uma forma mais antiga de declarar variáveis e permite reatribuições, mas não é recomendada atualmente. let e const são preferíveis, sendo const a escolha ideal quando não precisamos mudar o valor da variável.
+Diferenças entre **var, let e const**: var é uma forma mais antiga de declarar variáveis e permite reatribuições, mas não é recomendada atualmente. let e const são preferíveis, sendo const a escolha ideal quando não precisamos mudar o valor da variável.
 > A recomendação é usar const sempre que possível e let apenas quando for necessário reatribuir um valor.
 
 **camelCase**: inicia com letra minúscula e a primeira letra de cada palavra em seguida é escrita com letra maiúscula. Por exemplo: minhaVar ou senhaDoUsuario. Esta é a convenção utilizada pelo JavaScript para variáveis e funções.
@@ -41,7 +41,13 @@ Diferenças entre var, let e const: var é uma forma mais antiga de declarar var
 
 **for (let x of y)**: Funcionalidade: Percorre todos os elementos de um array, do primeiro ao último.
 
-**forEach()**: É um método de array que executa uma função para cada elemento do array.
+**x.forEach()**: É um método de array que executa uma função para cada elemento do array. Mas não retorna nada!!
+
+**x.Map** É um método callback que itera sobre cada elemento de um array. Diferente do **forEach(), o map()** retorna um novo array com os resultados da função aplicada a cada elemento.
+
+**x.filter()**: É um método que cria um novo array contendo apenas os elementos que passam em um teste implementado por uma função fornecida (callback).
+
+**x.reduce**: reduz todos os elementos de um array em um valor (no caso ele vai reduzir todos em nota, somar), acumulador é o valor que será retornado, nota
 ### escopo
 Limite dentro do qual trabalhamos
 
@@ -74,3 +80,4 @@ Uso em callbacks: As arrow functions são frequentemente utilizadas em funções
 **i++** (pós-incremento): Primeiro retorna o valor atual de i e, em seguida, incrementa i.
 **++i** (pré-incremento): Primeiro incrementa i e, em seguida, retorna o novo valor de i.
 
+**spread operator**: espalha valores, formato alteraArray(arrayOriginal) por alteraArray([...arrayOriginal])
