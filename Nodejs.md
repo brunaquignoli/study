@@ -81,3 +81,10 @@ Uso em callbacks: As arrow functions são frequentemente utilizadas em funções
 **++i** (pré-incremento): Primeiro incrementa i e, em seguida, retorna o novo valor de i.
 
 **spread operator**: espalha valores, formato alteraArray(arrayOriginal) por alteraArray([...arrayOriginal])
+
+# Objetos
+objetos em nodejS são declarados como 
+const objeto = {
+    chave: valor, 
+    chave2: valor2
+} 

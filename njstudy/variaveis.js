@@ -164,12 +164,12 @@
 // console.log(novaListaDeNotas);
 // -----
 
-const nomes = ['João', 'João', 'Maria', 'Pedro', 'Ana', 'Luana', 'João', 'Mariana', 'Pedro', 'Nayara', 'Lissa'];
+// const nomes = ['João', 'João', 'Maria', 'Pedro', 'Ana', 'Luana', 'João', 'Mariana', 'Pedro', 'Nayara', 'Lissa'];
 
-// const nomesAtualizados = new Set(nomes); // set é um conjunto que guarda valores únicos, é tipo um array mas não é, então os métodos de array não funcionam
+// // const nomesAtualizados = new Set(nomes); // set é um conjunto que guarda valores únicos, é tipo um array mas não é, então os métodos de array não funcionam
 
-const listaNomesAtualizados = [... new Set(nomes)];
+// const listaNomesAtualizados = [... new Set(nomes)];
 
-console.log(listaNomesAtualizados);
+// console.log(listaNomesAtualizados);
 
 
