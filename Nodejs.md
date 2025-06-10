@@ -45,7 +45,7 @@ Diferenças entre **var, let e const**: var é uma forma mais antiga de declarar
 
 **x.Map** É um método callback que itera sobre cada elemento de um array. Diferente do **forEach(), o map()** retorna um novo array com os resultados da função aplicada a cada elemento.
 
-**x.filter()**: É um método que cria um novo array contendo apenas os elementos que passam em um teste implementado por uma função fornecida (callback).
+**x.filter()**: é um método de array que cria um novo array com todos os elementos que passam no teste implementado pela função fornecida como argumento (funciona como callback).
 
 **x.reduce**: reduz todos os elementos de um array em um valor (no caso ele vai reduzir todos em nota, somar), acumulador é o valor que será retornado, nota
 ### escopo
@@ -81,6 +81,8 @@ Uso em callbacks: As arrow functions são frequentemente utilizadas em funções
 **++i** (pré-incremento): Primeiro incrementa i e, em seguida, retorna o novo valor de i.
 
 **spread operator**: espalha valores, formato alteraArray(arrayOriginal) por alteraArray([...arrayOriginal])
+
+O loop **for...in** permite iterar sobre todas as propriedades de um objeto.A sintaxe é: **for (let chave in objeto) { ... }**, onde chave é uma variável que recebe o nome de cada propriedade do objeto a cada iteração.
 
 # Objetos
 objetos em nodejS são declarados como 
