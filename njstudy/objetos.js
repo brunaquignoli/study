@@ -38,3 +38,7 @@ estudante.endereco = {rua: 'Rua feliz', N: 35, bairro: 'Centro'}; // adicionando
 console.log(estudante);
 
 // const deleteInfo = delete estudante['_'];
+// -----
+
+// juntar dois valores: só deixar os dois elementos em um array e acessar ele como [0] e tal (tipo quando forem dois dados de telefone e etc)
+// dados grandes podem estar em propriedade de objeto {} ou em array como lista de conjunto de textos []
