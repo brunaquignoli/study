@@ -24,3 +24,6 @@ console.log('x') imprime a mensagem ou o valor no console do navegador
 .value pega só o valor inserido, e não toda a tag
 
 uso do caso: senão = alguma variavel = [ condição a testar ] ? [ resposta se verdadeiro ] : [ resposta se não verdadeiro ]
+
+# JSON
+JavaScript Object Notation
