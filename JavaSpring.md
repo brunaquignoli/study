@@ -91,3 +91,6 @@ spring é um framework que abstrai o que é comum pra ajudar a focar
 > CommandLineRunner permite que executemos ações logo após o inicio da aplicação, meio que de forma automatica. Só pedir uma classe:
 **public void MyCommandLineRunner implements CommandLineRunner{ public void run(String... args) throws Exception{ System.out.println("algo");}}**
 
+A **JPA (Java Persistence API)** é a especificação mais conhecida dentro do ecossistema Java para facilitar a persistência de dados. Ela define uma interface comum para mapear objetos Java a tabelas de bancos de dados e realizar operações CRUD. Conceitos-chave como Entidade, EntityManager e JPQL (Java Persistence Query Language) são introduzidos para ajudar na compreensão do funcionamento da JPA.
+
+Hibernate é uma das implementações mais populares da JPA, que oferece uma maneira simplificada de acessar bancos de dados e é amplamente utilizada devido à sua comunidade ativa e documentação disponível.
