@@ -48,6 +48,10 @@ Diferenças entre **var, let e const**: var é uma forma mais antiga de declarar
 **x.filter()**: é um método de array que cria um novo array com todos os elementos que passam no teste implementado pela função fornecida como argumento (funciona como callback).
 
 **x.reduce**: reduz todos os elementos de um array em um valor (no caso ele vai reduzir todos em nota, somar), acumulador é o valor que será retornado, nota
+
+**x.flatMap()**: combina o map() e o flat(). Com ele, conseguimos filtrar os parágrafos vazios e mapear o restante em um único loop, tornando o código mais eficiente.
+
+
 ### escopo
 Limite dentro do qual trabalhamos
 
@@ -61,6 +65,9 @@ A **desestruturação** permite atribuir diretamente os arrays a variáveis como
 
 **Callback** É uma função passada como argumento para forEach(). Ela recebe como parâmetro o valor do elemento atual do array.
 
+O parâmetro **’utf-8’** define a codificação de caracteres do arquivo a ser lido.
+
+const caminhoArquivo = require('./arquivos/text-web.txt'); // so funciona com **js e json**
 ### operadores e variáveis
 
 Valores que são avaliados como verdadeiros incluem true, objetos vazios, arrays vazios, números diferentes de zero e strings não vazias.
