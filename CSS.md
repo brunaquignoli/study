@@ -178,4 +178,11 @@ Combinadores de elementos:
 "> - Seleciona elementos que estão dentro do elemento especificado antes do símbolo.
 
 
+# media queries
+Nesta aula, aprendemos sobre a importância da responsividade em aplicações front-end e como implementá-la utilizando Media Queries em CSS.
 
+Inicialmente, foi demonstrado como adaptar o layout do cabeçalho para tablets, dividindo-o em duas linhas e ajustando o espaçamento entre os elementos. Em seguida, exploramos a construção do layout para dispositivos móveis, ocultando os links de navegação e exibindo o menu hambúrguer.
+
+Ao longo da aula, foram utilizadas propriedades como row-gap, gap, flex, text-align, order, padding e display para posicionar e estilizar os elementos de forma responsiva. Além disso, foi abordada a importância de remover estilos padrão de elementos, como a cor de fundo de botões, para alcançar o design desejado.
+
+Com o auxílio do Flexbox e das Media Queries, foi possível transformar o cabeçalho em um componente totalmente responsivo, adaptado para diferentes tamanhos de tela.
