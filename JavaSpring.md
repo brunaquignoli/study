@@ -102,3 +102,12 @@ Hibernate é uma das implementações mais populares da JPA, que oferece uma man
 **Many-To-Many (Muitos-Para-Muitos)**: Nesta relação, muitos registros em uma tabela podem se relacionar com muitos registros em outra tabela. Bem, um aluno pode ter aulas com vários professores e vice-versa, certo? Esta é uma relação muitos-para-muitos.
 
 **One-To-One (Um-Para-Um)**: Neste tipo de relação, um registro em uma tabela se relaciona com apenas um registro em outra tabela, e vice-versa. Por exemplo, um usuário pode ter apenas um endereço, e este endereço pertence a apenas um usuário.
+
+# Cascade
+
+PERSIST : se você persistir a entidade Post, os Comments relacionados também serão persistidos.
+MERGE : se você mesclar os detalhes de um Post, os Comments relacionados também serão mesclados.
+REMOVE : se você remover um Post, os Comments relacionados também serão removidos.
+REFRESH : se você atualizar o Post, também atualizará os Comments relacionados.
+DETACH : se um Post foi desanexado, todos os Comments relacionados serão desanexados também.
+ALL : se você executar qualquer uma das operações acima em um Post, essa operação será propagada para todos os Comments relacionados.
