@@ -94,3 +94,11 @@ spring é um framework que abstrai o que é comum pra ajudar a focar
 A **JPA (Java Persistence API)** é a especificação mais conhecida dentro do ecossistema Java para facilitar a persistência de dados. Ela define uma interface comum para mapear objetos Java a tabelas de bancos de dados e realizar operações CRUD. Conceitos-chave como Entidade, EntityManager e JPQL (Java Persistence Query Language) são introduzidos para ajudar na compreensão do funcionamento da JPA.
 
 Hibernate é uma das implementações mais populares da JPA, que oferece uma maneira simplificada de acessar bancos de dados e é amplamente utilizada devido à sua comunidade ativa e documentação disponível.
+
+**One-To-Many (Um-Para-Muitos)**: Neste tipo de relação, um registro em uma tabela pode se relacionar com muitos registros em outra tabela. Por exemplo, um professor pode dar aulas para muitos alunos e criar uma relação um-para-muitos entre o professor e os alunos.
+
+**Many-To-One (Muitos-Para-Um)**: Aqui, muitos registros em uma tabela podem se relacionar com um registro em outra tabela. Usando o exemplo anterior, muitos alunos podem ter aula com um mesmo professor, estabelecendo uma relação muitos-para-um.
+
+**Many-To-Many (Muitos-Para-Muitos)**: Nesta relação, muitos registros em uma tabela podem se relacionar com muitos registros em outra tabela. Bem, um aluno pode ter aulas com vários professores e vice-versa, certo? Esta é uma relação muitos-para-muitos.
+
+**One-To-One (Um-Para-Um)**: Neste tipo de relação, um registro em uma tabela se relaciona com apenas um registro em outra tabela, e vice-versa. Por exemplo, um usuário pode ter apenas um endereço, e este endereço pertence a apenas um usuário.
