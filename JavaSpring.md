@@ -111,3 +111,9 @@ REMOVE : se você remover um Post, os Comments relacionados também serão remov
 REFRESH : se você atualizar o Post, também atualizará os Comments relacionados.
 DETACH : se um Post foi desanexado, todos os Comments relacionados serão desanexados também.
 ALL : se você executar qualquer uma das operações acima em um Post, essa operação será propagada para todos os Comments relacionados.
+
+# Request web
+GET para obter dados,
+POST para enviar novos dados,
+PUT para atualizar dados existentes,
+DELETE para remover dados.
