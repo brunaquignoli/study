@@ -1,5 +1,12 @@
 ### Voltar para o [README.md](./README.md)  
 
+### Sobre o SPRING BOOT
+
+> etapas
+1 - decidir a organização dos pacotes
+* ver sobre arquitetura de camadas (básico e tal, infrastructure - pacotes de bancos de dados, repositórios, coisas de segurança etcm business - normalmente tem as services e converters, controller)
+
+
 ## JAVA
 Introdução ao Regex: As expressões regulares são ferramentas poderosas para verificar padrões complexos em strings, como e-mails, números de telefone e CPF, superando as limitações do método contains.
 
