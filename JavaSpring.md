@@ -6,6 +6,7 @@
 1 - decidir a organização dos pacotes
 * ver sobre arquitetura de camadas (básico e tal, infrastructure - pacotes de bancos de dados, repositórios, coisas de segurança etcm business - normalmente tem as services e converters, controller)
 
+DTO - data transfering object, classe de transferencia de objetos, pra transferir dados de uma classe para outra classe
 
 ## JAVA
 Introdução ao Regex: As expressões regulares são ferramentas poderosas para verificar padrões complexos em strings, como e-mails, números de telefone e CPF, superando as limitações do método contains.
