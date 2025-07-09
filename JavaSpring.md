@@ -8,6 +8,8 @@
 
 DTO - data transfering object, classe de transferencia de objetos, pra transferir dados de uma classe para outra classe
 
+put - atualiza tudo, diferente do patch que atualiza apenas uma parte!!
+
 ## JAVA
 Introdução ao Regex: As expressões regulares são ferramentas poderosas para verificar padrões complexos em strings, como e-mails, números de telefone e CPF, superando as limitações do método contains.
 
