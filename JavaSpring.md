@@ -134,7 +134,6 @@ Build permite que o código-fonte seja distribuido/executado, compila arquivos, 
 ## Maven
 usa um padrão de arquivos XML pra definir a construção de projeto
 
-
 ## Gradle
 Usa arquivos em Groovy ou Kotlin e permite uma configuração um pouco mais personalizada, por não ser em XML
 
