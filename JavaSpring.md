@@ -127,3 +127,14 @@ GET para obter dados,
 POST para enviar novos dados,
 PUT para atualizar dados existentes,
 DELETE para remover dados.
+
+# Gerenciadores de Build
+Build permite que o código-fonte seja distribuido/executado, compila arquivos, baixa bibliotecas e dependencias, empacotar o programa e tal
+> aí pra facilitar tem os gerenciadores de build
+## Maven
+usa um padrão de arquivos XML pra definir a construção de projeto
+
+
+## Gradle
+Usa arquivos em Groovy ou Kotlin e permite uma configuração um pouco mais personalizada, por não ser em XML
+
