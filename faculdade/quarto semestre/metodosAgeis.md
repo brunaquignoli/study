@@ -10,8 +10,10 @@ Quando o desenvolvimento de software só utilizava modelos tradicionais (como o 
 > Diferenças práticas entre o modelo cascata e o Ágil
 O modelo cascata segue fases regradas, onde após um processo iniciar ele precisa terminar para começarem outros (o que pode demorar e atrapalhar no desenvolvimento do resto) e praticamente não permite mudanças rápidas entre uma fase e outra. Já o ágil cobra mais velocidade e interação entre as equipes, fazendo com que cada um tenha sua parte (sprint, que é bem menor do que as etapas do cascata) e entregue, dependendo de um feedback pra continuar.
 
+
 > Em quais contextos cada um é mais indicado
 O cascata é mais indicado em trabalhos já mais definidos desde o início, que não precisem de ajuste durante o desenvolvimento do projeto (baixo risco de alteração do escopo). Já o ágil é indicado para casos em que haja probabilidade de alteração durante o andamento do projeto.
+
 
 ## Pensar em um projeto: Biblioteca
 > Ele foi planejado totalmente no início ou foi se ajustando?
