@@ -67,42 +67,54 @@
 // }
 
 
-void main () {
-  int a = 114; 
-  int b = 25; 
-  int c = 132;
+// void main () {
+//   int a = 114; 
+//   int b = 25; 
+//   int c = 132;
 
-  if (a > b && a > c) {
-    print("a é maior do que b e c");
-  } else if (b > a && b > c) {
-    print("b é maior do que a e c");
-  } else {
-    print("c é maior do que a e b");
-  }
+//   if (a > b && a > c) {
+//     print("a é maior do que b e c");
+//   } else if (b > a && b > c) {
+//     print("b é maior do que a e c");
+//   } else {
+//     print("c é maior do que a e b");
+//   }
 
 
-  if ( a % 2 == 0 ) {
-    print("a é par");
-  } else if (b % 2 == 0) {
-    print("b é par");
-  } else if (c % 2 == 0) {
-    print("c é par");
-  } else {
-    print("nenhum número é par");
-  }
+//   if ( a % 2 == 0 ) {
+//     print("a é par");
+//   } else if (b % 2 == 0) {
+//     print("b é par");
+//   } else if (c % 2 == 0) {
+//     print("c é par");
+//   } else {
+//     print("nenhum número é par");
+//   }
 
-  if ( a > b && b > c || c > b && b > a ){
-    int soma = a + c;
-    print("a soma do maior e do menor número é: $soma");
-  } else if ( a > c && c > b || b > c && c > a ) { 
-    int soma = a + b;
-    print("a soma do maior e do menor número é: $soma");
-  } else if ( b > a && a > c || c > a && a > b ) {
-    int soma = b + c;
-    print("a soma do maior e do menor número é: $soma");
-  }
+//   if ( a > b && b > c || c > b && b > a ){
+//     int soma = a + c;
+//     print("a soma do maior e do menor número é: $soma");
+//   } else if ( a > c && c > b || b > c && c > a ) { 
+//     int soma = a + b;
+//     print("a soma do maior e do menor número é: $soma");
+//   } else if ( b > a && a > c || c > a && a > b ) {
+//     int soma = b + c;
+//     print("a soma do maior e do menor número é: $soma");
+//   }
   
   
-}
+// }
 
 // A > b > C > b > A // A > c > B > c > A // B > a > C > a > B
+
+import 'dart:io';
+void main() {
+  print("Qual a sua idade?");
+  String? input = stdin.readLineSync();
+  if (input != null) {
+    int idade = int.parse(input);
+    print("Ano que vem sua idade será ${idade + 1} anos.");
+  } else {
+    print("Não foi possível calcular o valor da idade");
+  }
+}
