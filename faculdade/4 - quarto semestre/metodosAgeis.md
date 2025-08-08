@@ -22,3 +22,7 @@ Foi planejado totalmente no início e seguiu como dentro do planejado até a dat
 
 > Como você lidou com mudanças?  
 Como as mudanças encontradas durante o projeto foram mínimas, pequenas pesquisas ou revisões foram o suficiente para ajudar nesses momentos.
+
+tarefas > fluxo de tarefas > sprint backlog e divisão de tarefas > fluxo ip mede a quantidade de tarefas que cada um consegue entregar 
+
+ MVP (Produto Mínimo Viável) é uma versão inicial de um produto com recursos suficientes para satisfazer os primeiros clientes e coletar feedback valioso para o desenvolvimento. 
