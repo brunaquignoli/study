@@ -44,6 +44,7 @@ Gestão do backlog - feita pelo Scrum Master, define o nível de habilidade de c
 Scrum master também facilita eventos e processos, 
 Responsável de qualidade vê se tá tudo concluído. 
 
+# página de definição do scrum
 
 Sprint review: auxilia no processo de aprendizagem e evolução das etapas, percepção de erros e desvios de função.
 
