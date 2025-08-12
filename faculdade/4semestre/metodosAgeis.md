@@ -48,3 +48,4 @@ Responsável de qualidade vê se tá tudo concluído.
 
 Sprint review: auxilia no processo de aprendizagem e evolução das etapas, percepção de erros e desvios de função.
 
+Marco do projeto: retrospectiva pra ver se tudo que foi pedido realmente está sendo entregue.
