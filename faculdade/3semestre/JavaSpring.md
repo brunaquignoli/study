@@ -140,7 +140,7 @@ Usa arquivos em Groovy ou Kotlin e permite uma configuração um pouco mais pers
 # Tipos de classes e interfaces
 1. Class: A mais comum. Pode ter atributos, métodos, construtores etc. Pode ser instanciada (a menos que seja abstract).
 2. Interface: define métodos que outras classes devem implementar. Não tem implementação (a não ser métodos default). Definem um conjunto de métodos que uma classe deve implementar. São utilizadas para promover a abstração e o polimorfismo. 
-> interface funcional: Para a interface ser considerada interface funcional ela deve ter somente um método que exige implementação, porém ela pode ter quantos métodos defaults quiser
+> interface funcional: Para a interface ser considerada interface funcional ela deve ter somente um método que exige implementação (ou um abstrato), porém ela pode ter quantos métodos defaults quiser
 > Records só podem implementar interfaces, enquanto classes podem implementar 1 classe por vez e quantas interfaces quiser
 
 3. Enum: Representa um conjunto fixo de constantes. Muito usado pra status, dias da semana, tipos de usuário etc. Utilizadas para definir um conjunto de constantes nomeadas. São úteis para representar valores fixos e limitados. 
