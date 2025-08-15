@@ -26,3 +26,26 @@ Como as mudanças encontradas durante o projeto foram mínimas, pequenas pesquis
 tarefas > fluxo de tarefas > sprint backlog e divisão de tarefas > fluxo ip mede a quantidade de tarefas que cada um consegue entregar 
 
  MVP (Produto Mínimo Viável) é uma versão inicial de um produto com recursos suficientes para satisfazer os primeiros clientes e coletar feedback valioso para o desenvolvimento. 
+
+#
+ 
+## Scrum: separação de tarefas ou ciclos, onde um depende da conclusão e avaliação de um ciclo pra se iniciar outro.
+
+etapas:
+
+
+inspeção: revisão de cada processo em cada etapa que foi feita no desenvolvimento.
+
+adaptação: corrigir de forma rápida algum problema inesperado de forma que isso danifique o projeto.
+
+Tarefa do backlog é feita pelo PO.
+Gestão do backlog - feita pelo Scrum Master, define o nível de habilidade de cada profissional pra ver quais funções vão ficar com quem.
+
+Scrum master também facilita eventos e processos, 
+Responsável de qualidade vê se tá tudo concluído. 
+
+# página de definição do scrum
+
+Sprint review: auxilia no processo de aprendizagem e evolução das etapas, percepção de erros e desvios de função.
+
+Marco do projeto: retrospectiva pra ver se tudo que foi pedido realmente está sendo entregue.
